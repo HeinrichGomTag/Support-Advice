@@ -1,0 +1,16 @@
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.exe
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.deps.json
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.runtimeconfig.json
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.runtimeconfig.dev.json
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.dll
+C:\Users\eubgo\Desktop\AmandaCartas\bin\Debug\net5.0\AmandaCartas.pdb
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.csproj.AssemblyReference.cache
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.AssemblyInfoInputs.cache
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.AssemblyInfo.cs
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.csproj.CoreCompileInputs.cache
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.dll
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\refint\AmandaCartas.dll
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.pdb
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\AmandaCartas.genruntimeconfig.cache
+C:\Users\eubgo\Desktop\AmandaCartas\obj\Debug\net5.0\ref\AmandaCartas.dll
