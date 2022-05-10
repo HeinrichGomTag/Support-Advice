@@ -1,0 +1,16 @@
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.csproj.AssemblyReference.cache
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.AssemblyInfoInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.AssemblyInfo.cs
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.exe
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.deps.json
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.runtimeconfig.json
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.runtimeconfig.dev.json
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.dll
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\bin\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.pdb
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.dll
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\refint\Naomi-CS-Algoritmos-Estructuras.dll
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.pdb
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\Naomi-CS-Algoritmos-Estructuras.genruntimeconfig.cache
+C:\Users\eubgo\Desktop\Support-Advice\Naomi-CS-Algoritmos-Estructuras\obj\Debug\net5.0\ref\Naomi-CS-Algoritmos-Estructuras.dll

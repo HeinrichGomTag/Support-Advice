@@ -1,0 +1,50 @@
+using System;
+using System.Linq;
+
+namespace CS_Ricardo_Algoritmos_LogicaProgramacion
+{
+    internal class Program
+    {
+        private static void Main()
+        {
+            Ejercicio1();
+            Ejercicio2();
+        }
+
+        private static void Ejercicio1()
+        {
+            int trabajadores;
+            double sueldo, impuesto;
+            Console.WriteLine("¿Cuantos trabajadores hay en la empresa?");
+            trabajadores = int.Parse(Console.ReadLine() ?? string.Empty);
+            for (var i = 0; i < trabajadores; i++)
+            {
+                Console.WriteLine(" Cual es el sueldo del trabajador ");
+                sueldo = double.Parse(Console.ReadLine() ?? string.Empty);
+                if (sueldo > 1 && sueldo < 1001)
+                    impuesto = 0.10 * sueldo;
+                else if (sueldo > 1000 && sueldo < 2000)
+                    impuesto = 0.20 * sueldo;
+                else
+                    impuesto = 0.30 * sueldo;
+                Console.WriteLine(" El impuesto del trabajador es: " + impuesto);
+            }
+        }
+
+        private static void Ejercicio2()
+        {
+            var ventas = new int[15];
+            int v, max = ventas[0], min = ventas[0];
+            for (var i = 0; i < 15; i++)
+            {
+                Console.Write("ingresos en ventas: ");
+                v = int.Parse(Console.ReadLine());
+                ventas[i] = v;
+            }
+
+            Console.Write("\n\nLa mayor venta es: " + ventas.Max());
+            Console.Write("\n\nLa menor venta es: " + ventas.Min());
+            Console.ReadKey();
+        }
+    }
+}

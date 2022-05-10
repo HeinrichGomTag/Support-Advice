@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Naomi-CS-Algoritmos-Estructuras/1.0.0": {
+        "runtime": {
+          "Naomi-CS-Algoritmos-Estructuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naomi-CS-Algoritmos-Estructuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

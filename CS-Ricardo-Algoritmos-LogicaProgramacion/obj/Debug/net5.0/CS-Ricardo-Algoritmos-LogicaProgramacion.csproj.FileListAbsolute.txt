@@ -1,0 +1,16 @@
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.exe
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.deps.json
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.runtimeconfig.json
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.runtimeconfig.dev.json
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.dll
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\bin\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.pdb
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.csproj.AssemblyReference.cache
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.AssemblyInfoInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.AssemblyInfo.cs
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.dll
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\refint\CS-Ricardo-Algoritmos-LogicaProgramacion.dll
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.pdb
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\CS-Ricardo-Algoritmos-LogicaProgramacion.genruntimeconfig.cache
+C:\Users\eubgo\Desktop\Support-Advice\CS-Ricardo-Algoritmos-LogicaProgramacion\obj\Debug\net5.0\ref\CS-Ricardo-Algoritmos-LogicaProgramacion.dll

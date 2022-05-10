@@ -1,0 +1,16 @@
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.exe
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.deps.json
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.runtimeconfig.json
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.runtimeconfig.dev.json
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.dll
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\bin\Debug\net5.0\LinearRev.pdb
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.csproj.AssemblyReference.cache
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.AssemblyInfoInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.AssemblyInfo.cs
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.csproj.CoreCompileInputs.cache
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.dll
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\refint\LinearRev.dll
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.pdb
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\LinearRev.genruntimeconfig.cache
+C:\Users\eubgo\Desktop\Support-Advice\LinearRev\obj\Debug\net5.0\ref\LinearRev.dll

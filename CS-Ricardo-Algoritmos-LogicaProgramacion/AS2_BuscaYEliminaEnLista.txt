@@ -1,0 +1,52 @@
+using System;
+
+namespace CS_Ricardo_Algoritmos_LogicaProgramacion
+{
+    internal class Program
+    {
+        private static void Main()
+        {
+            string palabra;
+            int numero_palabras;
+            Console.Write("Introduzca el número de palabras: ");
+            numero_palabras = int.Parse(Console.ReadLine());
+            var lista = new string[numero_palabras];
+            var ocupados = numero_palabras;
+            for (var i = 0; i < numero_palabras; i++)
+            {
+                Console.Write("Introduzca la palabra {0}: ", i + 1);
+                palabra = Console.ReadLine();
+                lista[i] = palabra;
+            }
+
+            Console.WriteLine("\nPalabras de la lista:");
+            for (var i = 0; i < lista.Length; i++) Console.Write(lista[i] + "\t");
+
+            Console.WriteLine("\n\n");
+            Console.Write("Palabra a buscar: ");
+            palabra = Console.ReadLine();
+            var encontrado = false;
+            var posicion = -1;
+            for (var i = 0; i < lista.Length; i++)
+                if (lista[i] == palabra)
+                {
+                    Console.WriteLine("Encontrado");
+                    encontrado = true;
+                    Console.WriteLine("Posicion: " + i + 1);
+                    posicion = i;
+                    break;
+                }
+
+            if (encontrado == false) Console.WriteLine("No encontrado");
+
+            for (var j = posicion + 1; j < ocupados; j++) lista[j - 1] = lista[j];
+            lista[ocupados - 1] = "0";
+            ocupados--;
+            Console.WriteLine("Borrado");
+
+            Console.WriteLine("\nDespués de borrar");
+            for (var i = 0; i < lista.Length; i++) Console.Write(lista[i] + "\t");
+            Console.WriteLine("\n");
+        }
+    }
+}
