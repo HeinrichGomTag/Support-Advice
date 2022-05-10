@@ -60,12 +60,26 @@ namespace Naomi_CS_Algoritmos_Estructuras
 
                 var total_pagado = 0.0;
 
-                Console.Write("Ingrese el número de pagos: ");
-                var numero_pagos = int.Parse(Console.ReadLine() ?? string.Empty);
-                for (var j = 0; j < numero_pagos; j++)
+                var pagos = true;
+                while (pagos)
                 {
-                    Console.Write("Ingrese el monto de pago {0}: ", j + 1);
-                    total_pagado += double.Parse(Console.ReadLine() ?? string.Empty);
+                    Console.Write("Ingrese el número de pagos: ");
+                    var numero_pagos = int.Parse(Console.ReadLine() ?? string.Empty);
+                    for (var j = 0; j < numero_pagos; j++)
+                    {
+                        Console.Write("Ingrese el monto de pago {0}: ", j + 1);
+                        total_pagado += double.Parse(Console.ReadLine() ?? string.Empty);
+                    }
+
+                    if (total_pagado <= lista[i].costo)
+                    {
+                        pagos = false;
+                    }
+                    else if (total_pagado > lista[i].costo)
+                    {
+                        Console.WriteLine("El total de pagos no puede ser mayor al costo del proyecto");
+                        total_pagado = 0;
+                    }
                 }
 
                 lista[i].total_pagado = total_pagado;
