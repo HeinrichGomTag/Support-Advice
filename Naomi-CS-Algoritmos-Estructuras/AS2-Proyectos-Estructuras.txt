@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Naomi_CS_Algoritmos_Estructuras
+namespace Felipe_CS_Algoritmos_Estructuras
 {
     internal struct Proyecto
     {
@@ -32,9 +32,9 @@ namespace Naomi_CS_Algoritmos_Estructuras
                 {
                     Console.Write("Ingrese el tipo de proyecto: ");
                     tipo = Console.ReadLine();
-                    if (tipo != "residencial" && tipo != "comercial" && tipo != "industrial")
+                    if (tipo != "residencial" && tipo != "comercial" && tipo != "oficinas")
                         Console.WriteLine("El tipo de proyecto ingresado no es valido. ");
-                } while (tipo != "residencial" && tipo != "comercial" && tipo != "industrial");
+                } while (tipo != "residencial" && tipo != "comercial" && tipo != "oficinas");
 
                 lista[i].tipo = tipo;
 
