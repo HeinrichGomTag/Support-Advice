@@ -1,0 +1,26 @@
+#include "header.h"
+
+int main()
+{
+	ofstream Esc;
+	ifstream Lec;
+	int op = 0;
+
+	do
+	{
+		op = menu();
+		switch (op)
+		{
+		case 1:
+			verRegistros(Lec);
+			break;
+		case 2:
+			search(Lec);
+			break;
+		default:
+			break;
+		}
+	}
+	while (op != 3);
+	return 0;
+}
