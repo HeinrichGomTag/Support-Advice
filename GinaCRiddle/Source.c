@@ -115,9 +115,40 @@ void Name()
 	}
 }
 
+void Colors()
+{
+	char color[20];
+	printf("name: ");
+	scanf("%s", color);
+	if (color[0] == 'g' || color[0] == 'a' || color[0] == 'm')
+	{
+		printf("Tu nombre\n");
+	}
+	if (color[1] == 'i' && color[2] == 'n' && color[3] == 'a')
+	{
+		printf("GINA\n");
+	}
+}
+
+int sumar(int numero1)
+{
+	int res = numero1 + 1;
+	return res;
+}
+
 int main()
 {
 	Name();
 	printf("Thanks for playing! \n");
+	// Colors();
+	/*int numero1;
+	scanf("%d", &numero1);
+	int resultado = sumar(numero1);
+	printf("%d", resultado);*/
 	return 0;
 }
+
+/*RECURSIVIDAD
+ *CONDICIONALES
+ *OPERADORES LOGICOS
+ *FUNCIONES*/
