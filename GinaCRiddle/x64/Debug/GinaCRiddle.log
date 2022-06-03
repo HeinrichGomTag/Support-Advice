@@ -1,2 +1,4 @@
-﻿  Source.c
+﻿  ProfePropuesta.c
+C:\Users\eubgo\Desktop\Support-Advice\GinaCRiddle\ProfePropuesta.c(47): warning C4715: 'mainGame': not all control paths return a value
+C:\Users\eubgo\Desktop\Support-Advice\GinaCRiddle\ProfePropuesta.c(107): warning C4715: 'gameFlow': not all control paths return a value
   GinaCRiddle.vcxproj -> C:\Users\eubgo\Desktop\Support-Advice\GinaCRiddle\x64\Debug\GinaCRiddle.exe
