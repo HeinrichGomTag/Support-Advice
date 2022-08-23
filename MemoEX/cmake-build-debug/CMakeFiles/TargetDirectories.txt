@@ -1,0 +1,3 @@
+/home/eubgt/Desktop/Support-Advice/MemoEX/cmake-build-debug/CMakeFiles/MemoEX.dir
+/home/eubgt/Desktop/Support-Advice/MemoEX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eubgt/Desktop/Support-Advice/MemoEX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
