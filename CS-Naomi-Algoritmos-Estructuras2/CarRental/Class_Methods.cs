@@ -1,8 +1,8 @@
-﻿namespace CarRental;
+namespace CarRental;
 
-public static class Program
+public static class CarRentalSource
 {
-    private static void AddCar(ref List<Car> cars)
+    public static void AddCar(ref List<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine();
@@ -22,7 +22,7 @@ public static class Program
         Console.WriteLine("Car added successfully!");
     }
 
-    private static void SeeCar(List<Car> cars)
+    public static void SeeCar(List<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine() ?? string.Empty;
@@ -36,7 +36,7 @@ public static class Program
         }
     }
 
-    private static void EditCar(ref List<Car> cars)
+    public static void EditCar(ref List<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine() ?? string.Empty;
@@ -56,7 +56,7 @@ public static class Program
         }
     }
 
-    private static void RentCar(ref List<Car> cars)
+    public static void RentCar(ref List<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine() ?? string.Empty;
@@ -73,7 +73,7 @@ public static class Program
             }
     }
 
-    private static void ReturnCar(ref List<Car> cars)
+    public static void ReturnCar(ref List<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine() ?? string.Empty;
@@ -89,7 +89,7 @@ public static class Program
             }
     }
 
-    private static void RentedCars(List<Car> cars)
+    public static void RentedCars(List<Car> cars)
     {
         foreach (var car in cars.Where(car => car.Available == false))
             Console.WriteLine("Plate: " + car.Plate, " Brand: " + car.Brand, " Model: " + car.Model,
@@ -97,7 +97,7 @@ public static class Program
                 " Availability: " + (car.Available ? "Available" : "Not Available"));
     }
 
-    private static void AvailableCars(List<Car> cars)
+    public static void AvailableCars(List<Car> cars)
     {
         foreach (var car in cars.Where(car => car.Available))
             Console.WriteLine("Plate: " + car.Plate, " Brand: " + car.Brand, " Model: " + car.Model,
@@ -105,59 +105,7 @@ public static class Program
                 " Availability: " + (car.Available ? "Available" : "Not Available"));
     }
 
-    public static void Main()
-    {
-        int opc;
-
-        var cars = new List<Car>();
-
-        do
-        {
-            Console.WriteLine("\nMAIN MENU");
-            Console.WriteLine("1. Add car");
-            Console.WriteLine("2. Show car");
-            Console.WriteLine("3. Edit car");
-            Console.WriteLine("4. Rent car");
-            Console.WriteLine("5. Return car");
-            Console.WriteLine("6. Show rented cars");
-            Console.WriteLine("7. Available cars");
-            Console.WriteLine("8. FINISH");
-
-            Console.Write("Enter choice: ");
-            opc = int.Parse(Console.ReadLine() ?? string.Empty);
-
-            switch (opc)
-            {
-                case 1:
-                    AddCar(ref cars);
-                    break;
-                case 2:
-                    SeeCar(cars);
-                    break;
-                case 3:
-                    EditCar(ref cars);
-                    break;
-                case 4:
-                    RentCar(ref cars);
-                    break;
-                case 5:
-                    ReturnCar(ref cars);
-                    break;
-                case 6:
-                    RentedCars(cars);
-                    break;
-                case 7:
-                    AvailableCars(cars);
-                    break;
-                case 8:
-                    Console.WriteLine("FINISHED");
-                    break;
-            }
-        } while (opc != 8);
-    }
-
-
-    private class Car
+    public class Car
     {
         // PLATE
         public readonly string? Plate;
