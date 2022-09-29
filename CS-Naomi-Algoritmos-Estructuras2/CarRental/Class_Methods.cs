@@ -1,6 +1,6 @@
 namespace CarRental;
 
-public static class CarRentalSource
+public static class CarRentalClass
 {
     public static void AddCar(ref List<Car> cars)
     {
@@ -22,7 +22,7 @@ public static class CarRentalSource
         Console.WriteLine("Car added successfully!");
     }
 
-    public static void SeeCar(List<Car> cars)
+    public static void SeeCar(IEnumerable<Car> cars)
     {
         Console.Write("Enter the plate number: ");
         var plate = Console.ReadLine() ?? string.Empty;
@@ -89,7 +89,7 @@ public static class CarRentalSource
             }
     }
 
-    public static void RentedCars(List<Car> cars)
+    public static void RentedCars(IEnumerable<Car> cars)
     {
         foreach (var car in cars.Where(car => car.Available == false))
             Console.WriteLine("Plate: " + car.Plate, " Brand: " + car.Brand, " Model: " + car.Model,
@@ -97,7 +97,7 @@ public static class CarRentalSource
                 " Availability: " + (car.Available ? "Available" : "Not Available"));
     }
 
-    public static void AvailableCars(List<Car> cars)
+    public static void AvailableCars(IEnumerable<Car> cars)
     {
         foreach (var car in cars.Where(car => car.Available))
             Console.WriteLine("Plate: " + car.Plate, " Brand: " + car.Brand, " Model: " + car.Model,

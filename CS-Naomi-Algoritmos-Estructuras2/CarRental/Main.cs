@@ -1,14 +1,13 @@
 namespace CarRental;
 
-using static CarRentalSource;
-
 public static class Program
 {
     public static void Main()
     {
         int opc;
 
-        var cars = new List<Car>();
+        // var cars = new List<Car>();
+        var car = new CarRentalStruct.Car();
 
         do
         {
@@ -28,25 +27,32 @@ public static class Program
             switch (opc)
             {
                 case 1:
-                    AddCar(ref cars);
+                    //AddCar(ref cars);
+                    car = CarRentalStruct.AddCar();
                     break;
                 case 2:
-                    SeeCar(cars);
+                    //SeeCar(cars);
+                    CarRentalStruct.SeeCar(car);
                     break;
                 case 3:
-                    EditCar(ref cars);
+                    //EditCar(ref cars);
+                    car = CarRentalStruct.EditCar(car);
                     break;
                 case 4:
-                    RentCar(ref cars);
+                    //RentCar(ref cars);
+                    car = CarRentalStruct.RentCar(car);
                     break;
                 case 5:
-                    ReturnCar(ref cars);
+                    //ReturnCar(ref cars);
+                    car = CarRentalStruct.ReturnCar(car);
                     break;
                 case 6:
-                    RentedCars(cars);
+                    //RentedCars(cars);
+                    CarRentalStruct.RentedCars(car);
                     break;
                 case 7:
-                    AvailableCars(cars);
+                    //AvailableCars(cars);
+                    CarRentalStruct.AvailableCars(car);
                     break;
                 case 8:
                     Console.WriteLine("FINISHED");
