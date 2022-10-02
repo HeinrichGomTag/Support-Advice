@@ -5,7 +5,6 @@ public static class Program
     public static void Main()
     {
         int opc;
-
         // var cars = new List<Car>();
         var car = new CarRentalStruct.Car();
 
@@ -56,6 +55,9 @@ public static class Program
                     break;
                 case 8:
                     Console.WriteLine("FINISHED");
+                    break;
+                default:
+                    Console.WriteLine("Invalid option!");
                     break;
             }
         } while (opc != 8);

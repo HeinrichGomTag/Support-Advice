@@ -93,6 +93,7 @@ public static class CarRentalStruct
         public string? Color;
         public string? Model;
         public int Year;
+        ftbldcxf,nmcx
 
         public Car(string? plate, string? brand, string? model, int year, string? color, bool available)
         {
