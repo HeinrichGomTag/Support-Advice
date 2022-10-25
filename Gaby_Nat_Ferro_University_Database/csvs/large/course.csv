@@ -1,0 +1,201 @@
+#,course_id,title,dept_name,credits
+1,787,C  Programming,Mech. Eng.,4
+2,238,The Music of Donovan,Mech. Eng.,3
+3,608,Electron Microscopy,Mech. Eng.,3
+4,539,International Finance,Comp. Sci.,3
+5,278,Greek Tragedy,Statistics,4
+6,972,Greek Tragedy,Psychology,4
+7,391,Virology,Biology,3
+8,814,Compiler Design,Elec. Eng.,3
+9,272,Geology,Mech. Eng.,3
+10,612,Mobile Computing,Physics,3
+11,237,Surfing,Cybernetics,3
+12,313,International Trade,Marketing,3
+13,887,Latin,Mech. Eng.,3
+14,328,Composition and Literature,Cybernetics,3
+15,984,Music of the 50s,History,3
+16,241,Biostatistics,Geology,3
+17,338,Graph Theory,Psychology,3
+18,400,Visual BASIC,Psychology,4
+19,760,How to Groom your Cat,Accounting,3
+20,629,Finite Element Analysis,Cybernetics,3
+21,762,The Monkeys,History,4
+22,242,Rock and Roll,Marketing,3
+23,482,FOCAL Programming,Psychology,4
+24,581,Calculus,Pol. Sci.,4
+25,843,Environmental Law,Math,4
+26,679,The Beatles,Math,3
+27,704,Marine Mammals,Geology,4
+28,774,Game Programming,Cybernetics,4
+29,591,Shakespeare,Pol. Sci.,4
+30,319,World History,Finance,4
+31,960,Tort Law,Civil Eng.,3
+32,274,Corporate Law,Comp. Sci.,4
+33,426,Video Gaming,Finance,3
+34,852,World History,Athletics,4
+35,408,Bankruptcy,Accounting,3
+36,808,Organic Chemistry,English,4
+37,902,Existentialism,Finance,3
+38,730,Quantum Mechanics,Elec. Eng.,4
+39,362,Embedded Systems,Finance,4
+40,341,Quantum Mechanics,Cybernetics,3
+41,582,Marine Mammals,Cybernetics,3
+42,867,The IBM 360 Architecture,History,3
+43,169,Marine Mammals,Elec. Eng.,3
+44,680,Electricity and Magnetism,Civil Eng.,3
+45,227,Elastic Structures,Languages,4
+46,991,Transaction Processing,Psychology,3
+47,366,Computational Biology,English,3
+48,376,Cost Accounting,Physics,4
+49,489,Journalism,Astronomy,4
+50,663,Geology,Psychology,3
+51,461,Physical Chemistry,Math,3
+52,105,Image Processing,Astronomy,3
+53,407,Industrial Organization,Languages,4
+54,254,Security,Cybernetics,3
+55,998,Immunology,Civil Eng.,4
+56,457,Systems Software,History,3
+57,401,Sanitary Engineering,Athletics,4
+58,127,Thermodynamics,Geology,3
+59,399,RPG Programming,Pol. Sci.,4
+60,949,Japanese,Comp. Sci.,3
+61,496,Aquatic Chemistry,Cybernetics,3
+62,334,International Trade,Athletics,3
+63,544,Differential Geometry,Statistics,3
+64,451,Database System Concepts,Pol. Sci.,4
+65,190,Romantic Literature,Civil Eng.,3
+66,630,Religion,English,3
+67,761,Existentialism,Athletics,3
+68,804,Introduction to Burglary,Cybernetics,4
+69,781,Compiler Design,Finance,4
+70,805,Composition and Literature,Statistics,4
+71,318,Geology,Cybernetics,3
+72,353,Operating Systems,Psychology,3
+73,394,C  Programming,Athletics,3
+74,137,Manufacturing,Finance,3
+75,192,Drama,Languages,4
+76,681,Medieval Civilization or Lack Thereof,English,3
+77,377,Differential Geometry,Astronomy,4
+78,959,Bacteriology,Physics,4
+79,235,International Trade,Math,3
+80,421,Aquatic Chemistry,Athletics,4
+81,647,Service-Oriented Architectures,Comp. Sci.,4
+82,598,Number Theory,Accounting,4
+83,858,Sailing,Math,4
+84,487,Physical Chemistry,History,3
+85,133,Antidisestablishmentarianism in Modern America,Biology,4
+86,267,Hydraulics,Physics,4
+87,200,The Music of the Ramones,Accounting,4
+88,664,Elastic Structures,English,3
+89,599,Mechanics,Psychology,4
+90,456,Hebrew,Civil Eng.,3
+91,558,Environmental Law,Psychology,3
+92,919,Computability Theory,Math,3
+93,546,Creative Writing,Mech. Eng.,4
+94,969,The Monkeys,Astronomy,4
+95,877,Composition and Literature,Biology,4
+96,337,Differential Geometry,Statistics,3
+97,983,Virology,Languages,4
+98,603,Care and Feeding of Cats,Statistics,3
+99,747,International Practicum,Comp. Sci.,4
+100,659,Geology,Math,4
+101,559,Martian History,Biology,3
+102,403,Immunology,Biology,3
+103,436,Stream Processing,Physics,4
+104,656,Groups and Rings,Civil Eng.,4
+105,731,The Music of Donovan,Physics,4
+106,820,Assembly Language Programming,Cybernetics,3
+107,898,Petroleum Engineering,Marketing,4
+108,545,International Practicum,History,3
+109,893,Systems Software,Cybernetics,3
+110,818,Environmental Law,Astronomy,4
+111,618,Thermodynamics,English,4
+112,416,Data Mining,Accounting,3
+113,716,Medieval Civilization or Lack Thereof,Languages,4
+114,130,Differential Geometry,Physics,3
+115,476,International Communication,Astronomy,4
+116,101,Diffusion and Phase Transformation,Mech. Eng.,3
+117,123,Differential Equations,Mech. Eng.,3
+118,209,International Trade,Cybernetics,4
+119,352,Compiler Design,Psychology,4
+120,393,Aerodynamics,Languages,3
+121,795,Death and Taxes,Marketing,3
+122,577,The Music of Dave Edmunds,Elec. Eng.,3
+123,584,Computability Theory,Comp. Sci.,3
+124,864,Heat Transfer,Geology,3
+125,594,Cognitive Psychology,Finance,3
+126,802,African History,Cybernetics,3
+127,692,Cat Herding,Athletics,3
+128,258,Colloid and Surface Chemistry,Math,3
+129,748,Tort Law,Cybernetics,4
+130,770,European History,Pol. Sci.,3
+131,340,Corporate Law,History,3
+132,158,Elastic Structures,Cybernetics,3
+133,276,Game Design,Comp. Sci.,4
+134,626,Multimedia Design,History,4
+135,696,Heat Transfer,Marketing,4
+136,239,The Music of the Ramones,Physics,4
+137,962,Animal Behavior,Psychology,3
+138,527,Graphics,Finance,3
+139,275,Romantic Literature,Languages,3
+140,549,Banking and Finance,Astronomy,3
+141,974,Astronautics,Accounting,3
+142,897,How to Succeed in Business Without Really Trying,Languages,4
+143,359,Game Programming,Comp. Sci.,4
+144,345,Race Car Driving,Accounting,4
+145,371,Milton,Finance,3
+146,284,Topology,Comp. Sci.,4
+147,642,Video Gaming,Psychology,3
+148,769,Logic,Elec. Eng.,4
+149,947,Real-Time Database Systems,Accounting,3
+150,265,Thermal Physics,Cybernetics,4
+151,927,Differential Geometry,Cybernetics,4
+152,694,Optics,Math,3
+153,580,The Music of Dave Edmunds,Physics,4
+154,324,Ponzi Schemes,Civil Eng.,3
+155,349,Networking,Finance,4
+156,392,Recursive Function Theory,Astronomy,4
+157,735,Greek Tragedy,Geology,3
+158,702,Arabic,Biology,3
+159,458,The Renaissance,Civil Eng.,4
+160,348,Compiler Design,Elec. Eng.,3
+161,500,Networking,Astronomy,3
+162,494,Automobile Mechanics,Pol. Sci.,4
+163,411,Music of the 80s,Mech. Eng.,4
+164,493,Music of the 50s,Geology,3
+165,396,C  Programming,Languages,3
+166,810,Mobile Computing,Geology,3
+167,631,Plasma Physics,Elec. Eng.,4
+168,486,Accounting,Geology,3
+169,963,Groups and Rings,Languages,4
+170,445,Biostatistics,Finance,3
+171,292,Electron Microscopy,English,4
+172,830,Sensor Networks,Astronomy,4
+173,604,UNIX System Programmming,Statistics,4
+174,857,UNIX System Programmming,Geology,4
+175,304,Music 2 New for your Instructor,Finance,4
+176,922,Microeconomics,Finance,4
+177,571,Plastics,Comp. Sci.,4
+178,628,Existentialism,Accounting,3
+179,841,Fractal Geometry,Mech. Eng.,4
+180,586,Image Processing,Finance,4
+181,139,Number Theory,English,4
+182,666,Multivariable Calculus,Accounting,3
+183,443,Journalism,Physics,4
+184,195,Numerical Methods,Geology,4
+185,634,Astronomy,Cybernetics,4
+186,224,International Finance,Athletics,3
+187,791,Operating Systems,Marketing,3
+188,875,Bioinformatics,Cybernetics,3
+189,958,Fiction Writing,Mech. Eng.,3
+190,415,Numerical Methods,Biology,3
+191,442,Strength of Materials,Athletics,3
+192,468,Fractal Geometry,Civil Eng.,4
+193,270,Music of the 90s,Math,4
+194,966,Sanitary Engineering,History,3
+195,793,Decison Support Systems,Civil Eng.,3
+196,236,Design and Analysis of Algorithms,Mech. Eng.,3
+197,792,Image Processing,Accounting,3
+198,561,The Music of Donovan,Elec. Eng.,4
+199,344,Quantum Mechanics,Accounting,4
+200,780,Geology,Psychology,3

@@ -1,0 +1,14 @@
+#,ID,name,dept_name,tot_cred
+1,00128,Zhang,Comp. Sci.,102
+2,12345,Shankar,Comp. Sci.,32
+3,19991,Brandt,History,80
+4,23121,Chavez,Finance,110
+5,44553,Peltier,Physics,56
+6,45678,Levy,Physics,46
+7,54321,Williams,Comp. Sci.,54
+8,55739,Sanchez,Music,38
+9,70557,Snow,Physics,0
+10,76543,Brown,Comp. Sci.,58
+11,76653,Aoi,Elec. Eng.,60
+12,98765,Bourikas,Elec. Eng.,98
+13,98988,Tanaka,Biology,120

@@ -1,0 +1,16 @@
+#,course_id,sec_id,semester,year,building,room_number,time_slot_id
+1,BIO-101,1,Summer,2017,Painter,514,B
+2,BIO-301,1,Summer,2018,Painter,514,A
+3,CS-101,1,Fall,2017,Packard,101,H
+4,CS-101,1,Spring,2018,Packard,101,F
+5,CS-190,1,Spring,2017,Taylor,3128,E
+6,CS-190,2,Spring,2017,Taylor,3128,A
+7,CS-315,1,Spring,2018,Watson,120,D
+8,CS-319,1,Spring,2018,Watson,100,B
+9,CS-319,2,Spring,2018,Taylor,3128,C
+10,CS-347,1,Fall,2017,Taylor,3128,A
+11,EE-181,1,Spring,2017,Taylor,3128,C
+12,FIN-201,1,Spring,2018,Packard,101,B
+13,HIS-351,1,Spring,2018,Painter,514,C
+14,MU-199,1,Spring,2018,Packard,101,D
+15,PHY-101,1,Fall,2017,Watson,100,A

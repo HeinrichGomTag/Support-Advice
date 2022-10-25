@@ -1,0 +1,2001 @@
+#,ID,name,dept_name,tot_cred
+1,24746,Schrefl,History,4
+2,79352,Rumat,Finance,100
+3,76672,Miliko,Statistics,116
+4,14182,Moszkowski,Civil Eng.,73
+5,44985,Prieto,Biology,91
+6,96052,Marcol,Cybernetics,15
+7,35175,Quimby,History,4
+8,44271,Sowerby,English,108
+9,40897,Coppens,Math,58
+10,92839,Cirsto,Math,115
+11,79329,Velikovs,Marketing,110
+12,97101,Marek,Psychology,53
+13,24865,Tran-,Marketing,116
+14,36052,Guerra,Elec. Eng.,59
+15,98940,Hawthorne,Marketing,78
+16,21395,Leuen,Math,43
+17,55859,Eguchi,Astronomy,14
+18,74016,Moei,Elec. Eng.,15
+19,93061,Alfaro,Elec. Eng.,69
+20,94998,Krishnakumar,Physics,81
+21,30772,Inoue,Math,18
+22,1968,Sahm,Finance,4
+23,90567,Tomason,Pol. Sci.,118
+24,49611,Karande,Astronomy,57
+25,81538,Wunderli,Languages,117
+26,68999,Greve,Psychology,113
+27,74639,Cerime,Accounting,35
+28,66054,Crick,Comp. Sci.,86
+29,792,Hashimoto,Athletics,102
+30,60267,Dage,Physics,7
+31,17769,Pearlman,Biology,45
+32,39580,Macias,Psychology,128
+33,89106,Dawson,Mech. Eng.,88
+34,37856,Gay,Statistics,92
+35,58307,Tiamp,Pol. Sci.,63
+36,57985,Weller,Geology,45
+37,72014,Kee,Languages,57
+38,2795,Milner,Finance,8
+39,89000,Guthk,Finance,80
+40,46442,Kagd,Cybernetics,61
+41,60040,Samel,Math,100
+42,19791,Vanrell,Comp. Sci.,61
+43,4582,Zaniolo,Math,0
+44,108,Dhav,Biology,80
+45,1533,She,Statistics,29
+46,7123,Holn,Math,27
+47,44584,Agar,Geology,58
+48,32954,Curutchet,Languages,121
+49,98056,Di,Civil Eng.,81
+50,76953,Lemoine,Athletics,60
+51,81884,Kereth,Accounting,96
+52,22057,Cal,Cybernetics,20
+53,21126,McCarter,Cybernetics,38
+54,82918,Yemini,Statistics,43
+55,4173,Erol,Statistics,21
+56,83022,Chyr,Math,10
+57,25525,Moreira,Comp. Sci.,107
+58,75040,Kruglyak,Pol. Sci.,99
+59,31624,Keuk,Geology,107
+60,64893,Katzenb,Statistics,78
+61,59920,Dano,Civil Eng.,16
+62,38602,Torres,Cybernetics,108
+63,21401,Garze,Physics,92
+64,93004,Gibbs,Finance,129
+65,38899,Murphy,Marketing,30
+66,75241,Hughes,Languages,79
+67,98830,Frolova,Comp. Sci.,13
+68,37101,Falconer,Physics,78
+69,4508,Cochran,English,127
+70,32130,Bannac,Biology,56
+71,56755,Paul,Mech. Eng.,62
+72,11510,Rakoj,Mech. Eng.,37
+73,3335,Otterm,Finance,73
+74,61081,Bai,Geology,100
+75,33651,Seike,Geology,2
+76,8251,Kite,History,47
+77,10705,Terauchi,Physics,48
+78,64082,Boyle,Languages,87
+79,59517,Harrison,Elec. Eng.,81
+80,91569,Pavlovico,Marketing,90
+81,88085,Bouamama,Comp. Sci.,8
+82,96722,Liley,English,34
+83,36379,Triebel,Comp. Sci.,115
+84,69581,Prabhakaran,Statistics,26
+85,65329,Benson,Mech. Eng.,63
+86,49214,Vogel,Psychology,46
+87,64155,Midu,Languages,33
+88,58594,Ivanov,Finance,11
+89,71904,Boldin,Mech. Eng.,89
+90,69241,Kannan,Athletics,99
+91,58889,Collet,Geology,76
+92,30341,Anse,History,58
+93,70688,Ishihara,Elec. Eng.,86
+94,81258,Nirenbu,History,102
+95,63090,Hoov,Math,118
+96,70572,Andrews,Psychology,7
+97,58413,Xiong,Athletics,27
+98,93171,Carey,Marketing,56
+99,35138,Corbac,Mech. Eng.,86
+100,77289,Kok,Geology,57
+101,93571,Kato,Psychology,0
+102,14554,Ramadan,Psychology,96
+103,46725,Richi,Statistics,18
+104,99730,Courtney,English,99
+105,10527,Kieras,Physics,128
+106,898,Heilprin,Accounting,88
+107,64297,Desp,Athletics,95
+108,10204,Mediratta,Geology,112
+109,36926,Kamae,Civil Eng.,87
+110,49618,Stone,Languages,60
+111,34329,Malcher,English,32
+112,84410,Bae,Psychology,71
+113,29435,Siddiqi,Psychology,86
+114,62636,Soni,Geology,4
+115,8483,Luk,Elec. Eng.,53
+116,2177,Cheah,Astronomy,15
+117,43348,Venturini,Mech. Eng.,94
+118,37430,Norman,Languages,35
+119,37586,Valtchev,Biology,19
+120,55238,Thadani,Physics,75
+121,34404,Fries,History,48
+122,59539,Madden,Civil Eng.,4
+123,43123,Shim,Geology,69
+124,19582,Canas,Finance,7
+125,88553,Levine,Pol. Sci.,51
+126,5898,Dahl,Languages,28
+127,2419,Hirakuri,Mech. Eng.,49
+128,31516,Hassine,Elec. Eng.,49
+129,3487,Deshpande,Languages,6
+130,66269,Hsueh,Accounting,43
+131,54622,Yu,Statistics,107
+132,19638,Dawson,Cybernetics,107
+133,88418,Slaw,Elec. Eng.,112
+134,86802,Hameed,Mech. Eng.,47
+135,63361,Djurd,Languages,36
+136,6367,Doisy,Pol. Sci.,66
+137,84239,Jordan,Languages,20
+138,4940,Rhyne,Mech. Eng.,102
+139,90663,Sram,Comp. Sci.,119
+140,38476,Rzecz,Pol. Sci.,129
+141,96003,Nakajima,Astronomy,95
+142,64914,Lembr,Finance,17
+143,41599,Meneses,Geology,40
+144,22226,Kinney,Biology,116
+145,96153,Sawah,Pol. Sci.,67
+146,44998,Borrus,Civil Eng.,79
+147,74163,Chettao,Marketing,115
+148,75046,Hamagi,Marketing,101
+149,97679,Sacchi,Psychology,102
+150,94894,Kozlov,Accounting,27
+151,44881,Harshman,Cybernetics,59
+152,98619,Nagaraj,Civil Eng.,61
+153,86753,Leister,History,81
+154,87054,Dietzsch,Statistics,91
+155,39046,Narasimhamu,Math,121
+156,29031,Berthold,English,85
+157,97355,Ratcliff,Languages,60
+158,24010,Brookh,Comp. Sci.,65
+159,21789,Bates,History,118
+160,52157,Nagle,Astronomy,52
+161,64938,Kaep,Civil Eng.,126
+162,94535,Nishida,History,127
+163,58595,Cronin,Physics,100
+164,72979,Guix,Astronomy,117
+165,32506,Suzuki,Astronomy,86
+166,31690,Bondi,Comp. Sci.,110
+167,87044,McDonald,Accounting,87
+168,34236,Maalej,Math,80
+169,18808,Snif,Mech. Eng.,116
+170,91063,Dair,Civil Eng.,105
+171,48462,Wolf,Civil Eng.,19
+172,41965,Boden,Cybernetics,87
+173,31137,Porter,Statistics,36
+174,7602,Ingram,Geology,71
+175,84845,Zuo,Comp. Sci.,81
+176,28252,Pfister,Finance,6
+177,10736,Veselovsky,Elec. Eng.,62
+178,58465,Romeo,Elec. Eng.,76
+179,64140,Tiroz,Athletics,118
+180,6523,Karlsson,Civil Eng.,1
+181,64067,Mennif,Languages,8
+182,99399,Duan,Astronomy,96
+183,21337,Goualh,Marketing,46
+184,15457,Arinb,Physics,123
+185,26102,Tanaka,Statistics,118
+186,31337,Graziano,Elec. Eng.,29
+187,67425,Cooper,Athletics,51
+188,48640,Brown,History,33
+189,72741,Weiss,Astronomy,22
+190,29803,Beavis,Accounting,76
+191,38895,Beuthel,Biology,70
+192,49391,Rammer,Marketing,15
+193,13741,Grieng,Psychology,122
+194,59538,Kothari,Accounting,125
+195,9360,Mukai,Marketing,36
+196,53728,Eck,Statistics,61
+197,77898,Yap,Marketing,10
+198,32419,Sahani,Civil Eng.,48
+199,37521,Mes,Biology,9
+200,97065,Gandhi,Languages,22
+201,80057,Szczerban,Biology,101
+202,1826,Dhav,Astronomy,8
+203,80285,Karv,Cybernetics,93
+204,72959,Audeh,Elec. Eng.,43
+205,41751,Kaufman,Pol. Sci.,13
+206,11604,Neff,Pol. Sci.,39
+207,41827,Chriso,Languages,89
+208,8853,Warner,Mech. Eng.,69
+209,9440,Gierl,Psychology,9
+210,1884,Masini,Marketing,89
+211,41774,Tassel,Languages,7
+212,32385,Park,Civil Eng.,120
+213,336,Constantinescu,Finance,61
+214,82688,Rote,Cybernetics,33
+215,66090,Brochhause,Pol. Sci.,53
+216,4182,Powals,Languages,102
+217,20099,Lewis,Mech. Eng.,46
+218,81028,Perna,Pol. Sci.,105
+219,27556,Leitner,Astronomy,82
+220,65258,Tian,Comp. Sci.,3
+221,29239,Simmel,Astronomy,107
+222,54508,Gregga,Physics,41
+223,37449,Ssu,Pol. Sci.,64
+224,16753,Kuwadak,Comp. Sci.,67
+225,82697,Ye,Civil Eng.,71
+226,11422,Saito,Physics,34
+227,59046,Reichl,Elec. Eng.,56
+228,89246,Loyka,History,46
+229,95859,Huft,Physics,33
+230,94173,Winkler,Biology,16
+231,70021,Aydin,Cybernetics,16
+232,92040,Alexandri,Athletics,66
+233,36019,Quaranta,Astronomy,128
+234,40558,Pacie,Finance,101
+235,62549,Komatsu,Comp. Sci.,74
+236,92385,Godfrey,English,34
+237,14214,Yoneda,Cybernetics,129
+238,32245,Saariluoma,Statistics,12
+239,13506,Patrick,Physics,85
+240,26080,Simmel,Biology,80
+241,52872,Chaney,Elec. Eng.,57
+242,28952,Kennedy,Accounting,30
+243,1080,Xue,Languages,94
+244,11095,Schultz,Languages,51
+245,33460,Leonard,Psychology,48
+246,99226,Hao,Civil Eng.,50
+247,52707,Arena,History,73
+248,40189,Holt,Comp. Sci.,104
+249,35721,Suppan,Math,85
+250,6400,Kelly,Astronomy,110
+251,60688,Zander,Accounting,69
+252,18821,Linden,Astronomy,98
+253,65443,Yagit,Finance,78
+254,71630,Heath,Psychology,116
+255,46956,Nallape,Astronomy,6
+256,64259,Busch,Marketing,123
+257,77021,Bollen,Psychology,120
+258,41450,McLeod,Marketing,78
+259,13028,Okano,Geology,89
+260,90381,Chaudhuri,Math,108
+261,9460,Wrzesz,Accounting,99
+262,98423,Alfaro,Physics,101
+263,38691,Theodores,Accounting,37
+264,86806,Unger,Marketing,101
+265,18469,Coppens,Marketing,26
+266,11194,El-Helw,Pol. Sci.,71
+267,19862,Prasad,Pol. Sci.,22
+268,24116,Fauth,Elec. Eng.,10
+269,67021,Chenu,Accounting,73
+270,69752,Tan,English,24
+271,69225,Mejia,History,22
+272,1018,Colin,Civil Eng.,81
+273,7656,Maher,Pol. Sci.,24
+274,35220,Shilv,History,58
+275,79210,Sanchez,Astronomy,14
+276,10814,Waks,Elec. Eng.,56
+277,55698,Choung,Finance,67
+278,49684,Ceze,Civil Eng.,50
+279,59908,Cox,Civil Eng.,0
+280,64724,Deupree,Cybernetics,36
+281,19048,Leuen,Statistics,122
+282,62716,Bocchi,Math,33
+283,95205,Hammond,Athletics,115
+284,40303,Rudolf,Marketing,25
+285,27430,Gonzalez,Cybernetics,75
+286,83953,Jordan,Math,26
+287,4248,Wright,Finance,63
+288,21766,Cox,Astronomy,74
+289,39657,Ryder,Astronomy,80
+290,85366,Erol,Finance,112
+291,93354,Varghese,English,88
+292,77580,Frazin,Civil Eng.,46
+293,92864,Rogers,Accounting,54
+294,57135,Margetts,Marketing,66
+295,1727,Ratcliff,Mech. Eng.,49
+296,91788,Streitf,Cybernetics,56
+297,80420,Bansal,Statistics,69
+298,67810,Forestiero,English,114
+299,86404,Cordt,Marketing,1
+300,16907,Keiss,Accounting,59
+301,46928,Barry,Athletics,108
+302,84702,Lucas,Math,105
+303,91343,Clarkson,Statistics,42
+304,83686,Krasser,Statistics,95
+305,83462,Mehra,Accounting,55
+306,67725,Yamamoto,Pol. Sci.,35
+307,5393,Clemens,Mech. Eng.,4
+308,34422,Nakajima,Mech. Eng.,86
+309,17128,Chuon,Civil Eng.,81
+310,81883,Perei,Marketing,124
+311,87965,Reiss,Accounting,17
+312,93653,Mellor,Astronomy,127
+313,70522,Holn,Comp. Sci.,29
+314,48850,Wehen,Biology,14
+315,68070,Cameron,Pol. Sci.,85
+316,50206,Cesaret,Mech. Eng.,102
+317,80254,Mittelm,Languages,122
+318,22396,Wodn,Biology,100
+319,19293,Singhal,Geology,118
+320,67660,Newitt,Biology,64
+321,85910,Levitan,Finance,73
+322,10917,Morales,Cybernetics,54
+323,95574,Pampal,Comp. Sci.,111
+324,13081,Alqui,Languages,112
+325,33349,Peck,Biology,125
+326,19861,Fontana,Civil Eng.,81
+327,30723,Mali,Physics,115
+328,83039,Harmon,Psychology,124
+329,41741,Kato,Languages,94
+330,97400,Noda,Accounting,62
+331,81207,Masri,Athletics,123
+332,23994,Kalisz,Elec. Eng.,75
+333,54672,Thie,Pol. Sci.,44
+334,47001,Correia,Comp. Sci.,63
+335,26147,Richter,Comp. Sci.,115
+336,65987,Morrison,Athletics,98
+337,99250,Khaw,English,14
+338,13826,Sommerfeldt,Pol. Sci.,80
+339,3739,Davy,History,75
+340,10454,Ugarte,Pol. Sci.,120
+341,48053,Macias,Comp. Sci.,0
+342,66813,Spengler,Languages,55
+343,16593,Skuras,Psychology,5
+344,14668,Malinen,Athletics,20
+345,33338,Stead,Psychology,65
+346,45300,Kambayashi,Geology,67
+347,3127,Resa,Psychology,73
+348,40992,Xing,Psychology,93
+349,70310,Ding,Biology,107
+350,46451,Chilu,Pol. Sci.,123
+351,288,Canellas,Astronomy,95
+352,557,Bhat,Math,44
+353,22170,Sugavanam,Physics,41
+354,64164,Zander,Languages,111
+355,74911,Wall,Languages,111
+356,7020,Thoreson,Comp. Sci.,61
+357,78552,Douss,History,90
+358,50386,Bersk,Elec. Eng.,125
+359,48678,Tuomisto,Athletics,121
+360,24442,Greene,Physics,11
+361,89188,Anse,Statistics,77
+362,390,Alkio,Elec. Eng.,65
+363,10663,Okaf,Geology,59
+364,97551,Labaye,Civil Eng.,128
+365,76895,Olro,Accounting,63
+366,85451,Chapman,Languages,70
+367,43989,Makarychev,Accounting,72
+368,99719,Bennett,Accounting,70
+369,19245,Cai,Comp. Sci.,4
+370,36685,Fathi,Accounting,8
+371,57123,Katsik,Cybernetics,46
+372,51997,Nadg,Languages,49
+373,95631,Mauras,Elec. Eng.,42
+374,70452,Al-Hu,Astronomy,18
+375,37219,Poize,Comp. Sci.,45
+376,59530,Poulin,History,64
+377,61737,Kissel,Finance,86
+378,33645,Kawakami,Comp. Sci.,129
+379,3143,Haddad,Geology,55
+380,78792,Ram,Mech. Eng.,102
+381,10076,Duan,Civil Eng.,105
+382,59553,Schoenfl,Mech. Eng.,110
+383,57666,Fries,History,96
+384,22004,OBrien,Geology,106
+385,38668,Spector,Elec. Eng.,97
+386,43130,Yong,Comp. Sci.,123
+387,36263,Souza,Civil Eng.,58
+388,99271,Soricu,Math,70
+389,69850,Alexandri,Finance,80
+390,59397,Williams,Statistics,126
+391,61127,Tuki,Physics,30
+392,30299,Marsh,Geology,38
+393,57962,Aarde,Statistics,22
+394,88169,Schroeder,Cybernetics,106
+395,27094,Gur,Geology,120
+396,39115,Boulah,Civil Eng.,2
+397,84189,Kuwadak,Statistics,119
+398,79892,Chiari,Cybernetics,76
+399,95046,Mercank,Astronomy,100
+400,34386,Hagedorn,History,98
+401,82646,Nirenbu,Biology,0
+402,31086,Zulueta,Psychology,125
+403,85226,Vicentino,Psychology,18
+404,32490,McCracken,Comp. Sci.,117
+405,39704,Frank,Statistics,31
+406,80610,Nakamura,Physics,79
+407,18675,Araya,Statistics,82
+408,47630,Odell,Cybernetics,77
+409,36102,Szendrei,Cybernetics,109
+410,22620,Lykin,Accounting,18
+411,39157,Loull,Accounting,0
+412,86327,Moscarini,Marketing,31
+413,84865,Fernandez-Gonzalez,Finance,20
+414,83557,Khalil,Psychology,95
+415,7490,Giuffrida,Math,39
+416,94178,Bengtss,Psychology,47
+417,99660,OMalley,Civil Eng.,128
+418,57511,Pulido,English,78
+419,56941,Swain,Astronomy,17
+420,77415,Morales,Astronomy,102
+421,99754,Califieri,Cybernetics,55
+422,81550,Harada,Elec. Eng.,98
+423,79911,Corr,Physics,117
+424,82082,Towsey,Statistics,12
+425,58846,Fengl,Pol. Sci.,66
+426,11076,Prasad,Pol. Sci.,114
+427,7204,Halbert,Biology,83
+428,73165,Fox,Statistics,19
+429,1737,Shinagawa,Biology,118
+430,12979,Hammond,Elec. Eng.,5
+431,57334,Roeder,Math,70
+432,1827,Westbrook,Civil Eng.,61
+433,29390,Aufr,Geology,49
+434,31302,Qian,Geology,110
+435,77231,Roschew,History,38
+436,36126,Fung,Astronomy,47
+437,45200,Kitagawa,Elec. Eng.,125
+438,99463,Jacobi,Statistics,19
+439,79170,Lingamp,Cybernetics,28
+440,12216,Griffiths,Cybernetics,94
+441,64593,Kamez,Mech. Eng.,8
+442,30177,Vajapeyaz,Pol. Sci.,41
+443,15074,Kirtane,Physics,36
+444,5005,Cesaret,Civil Eng.,15
+445,99348,Tobin,Finance,85
+446,82591,Pomy,Mech. Eng.,92
+447,53089,Vedag,English,98
+448,24630,Halbert,Geology,66
+449,71387,Tleu,Civil Eng.,69
+450,61354,Barranco,Mech. Eng.,129
+451,10481,Grosch,Astronomy,39
+452,39310,Ploski,Comp. Sci.,64
+453,16297,Sacchi,Marketing,44
+454,72622,Kashima,Cybernetics,54
+455,92965,Mesne,Biology,26
+456,89104,Mitsuhashi,Biology,54
+457,13408,Bromley,Elec. Eng.,81
+458,66229,Qvi,Civil Eng.,128
+459,87280,Kim,Pol. Sci.,67
+460,73206,Maw,Cybernetics,36
+461,24387,Yap,History,29
+462,32744,Robins,Finance,40
+463,39204,Castle,Civil Eng.,27
+464,42298,Fournier,Biology,61
+465,53588,Schwet,Languages,100
+466,90004,Unay,Astronomy,81
+467,12563,Stone,Marketing,66
+468,55000,Levitan,Biology,103
+469,1110,Tzeng,Civil Eng.,23
+470,55170,Ivanov,History,22
+471,56080,Zamani,Geology,127
+472,61065,Jovicic,Civil Eng.,31
+473,107,Shabuno,Math,19
+474,11453,Yamashita,Astronomy,109
+475,53805,Ludwig,Cybernetics,30
+476,39241,Solar,Mech. Eng.,64
+477,32886,Damas,Psychology,58
+478,40080,Llam,Civil Eng.,6
+479,22142,Gerstend,History,22
+480,94257,Unger,Languages,12
+481,75513,Griffin,Statistics,12
+482,99268,Makarychev,Elec. Eng.,115
+483,20084,Adda,Accounting,13
+484,51868,Guthk,Pol. Sci.,109
+485,7287,Tadjo,Cybernetics,116
+486,35588,John,Civil Eng.,31
+487,83170,Ariav,English,43
+488,14596,Vekk,Biology,105
+489,23794,Sokolov,Pol. Sci.,13
+490,78332,Ohki,Pol. Sci.,76
+491,49339,Snif,Civil Eng.,107
+492,40677,Ponnambalam,Civil Eng.,127
+493,90220,Iacovoni,Elec. Eng.,113
+494,95029,Oliveira,Astronomy,17
+495,83728,Kaminsky,Biology,38
+496,67033,Yun,Marketing,59
+497,87785,Liepelt,Pol. Sci.,122
+498,4345,Resa,Languages,125
+499,96085,Wood,Accounting,70
+500,64249,Kalantari,Mech. Eng.,102
+501,53803,Okaf,Civil Eng.,89
+502,27956,Watzel,Psychology,53
+503,24796,Thimm,Pol. Sci.,18
+504,4449,Gilliam,Biology,99
+505,77364,Lacruz,Elec. Eng.,59
+506,70384,Shevade,Cybernetics,45
+507,18007,Chanon,Biology,90
+508,51723,Lagendijk,Comp. Sci.,99
+509,56486,DeMil,Pol. Sci.,110
+510,70359,Lorinczi,Cybernetics,63
+511,18234,Nirenbu,Pol. Sci.,19
+512,34322,Baba,Biology,74
+513,24325,Álvarez,Cybernetics,50
+514,83444,Vieira,Mech. Eng.,115
+515,93814,Smoro,Marketing,19
+516,80912,Homyk,Biology,16
+517,70099,Zhiyong,Languages,86
+518,64945,Gall,Mech. Eng.,6
+519,81789,Urwin,Biology,25
+520,38271,Kosken,Cybernetics,100
+521,87784,McCracken,Astronomy,64
+522,46436,Richardson,History,52
+523,20195,Finney,Mech. Eng.,7
+524,31080,Aschoff,Athletics,88
+525,85887,Stoltzfus,Mech. Eng.,15
+526,85234,Dubu,Finance,69
+527,1460,Martinsen,History,55
+528,30650,Chaudhuri,Languages,101
+529,6474,Rossettin,Civil Eng.,85
+530,67051,Labroc,Statistics,70
+531,58300,Lum,Mech. Eng.,8
+532,64192,Pradhan,Physics,86
+533,84727,Hennig,Languages,108
+534,39881,Herman,Athletics,85
+535,3163,Riera,Biology,55
+536,72643,Castle,Athletics,49
+537,66008,Szczerban,Languages,25
+538,76291,Dellwo,Physics,30
+539,92274,Caporali,Pol. Sci.,12
+540,16075,Wolter,Pol. Sci.,45
+541,30334,Arakawa,Physics,37
+542,75123,Chowdhury,Physics,92
+543,35042,Nives,Comp. Sci.,38
+544,99073,Bartels,Comp. Sci.,6
+545,68280,Shuming,Languages,123
+546,80976,Mozayani,Elec. Eng.,34
+547,68554,Larsson,English,60
+548,99949,Samo,Astronomy,125
+549,71287,Damas,Marketing,59
+550,73268,Yagit,Civil Eng.,67
+551,93708,Steines,Psychology,99
+552,29399,Sutter,Marketing,38
+553,14284,Takeshi,Athletics,32
+554,80247,Rueda,Mech. Eng.,17
+555,86344,Kaar,Accounting,49
+556,54728,Seta,History,50
+557,86375,Loher,English,110
+558,64401,Larion,Elec. Eng.,42
+559,9183,Sutter,Athletics,44
+560,71529,Fredrickso,Elec. Eng.,12
+561,65433,Stratulat,Math,123
+562,89051,Dubink,History,65
+563,90448,Godfrey,English,120
+564,90082,Esparza,Astronomy,62
+565,25362,Simmel,Psychology,117
+566,74509,Tanzi,Civil Eng.,76
+567,20445,Laak,Marketing,4
+568,40059,Montilla,Astronomy,16
+569,60867,Poulin,Finance,5
+570,28128,Crick,Comp. Sci.,111
+571,28518,Catani,Cybernetics,20
+572,17086,Hazemi,Math,90
+573,91132,Sud,History,57
+574,29260,Verhoeven,Physics,25
+575,29707,Gaspar,Statistics,68
+576,85746,Wilks,Pol. Sci.,5
+577,54605,Yoshioka,Elec. Eng.,50
+578,78922,Koltso,Astronomy,20
+579,76173,Jovicic,Elec. Eng.,127
+580,6304,Tamura,Cybernetics,122
+581,98120,Furukawa,Physics,33
+582,6195,Hartmann,Finance,20
+583,33837,Nicol,Psychology,37
+584,86833,Viani,Psychology,86
+585,28829,Reiss,Physics,113
+586,82974,Duncan,Cybernetics,111
+587,39114,Kerz,English,18
+588,53485,Rowe,English,70
+589,8603,Piedrah,Pol. Sci.,64
+590,7973,Breed,English,64
+591,34502,Farr,Pol. Sci.,8
+592,69853,Boken,Statistics,55
+593,70389,Paulk,History,93
+594,75423,Oller,Elec. Eng.,79
+595,26881,Markin,History,110
+596,19848,Tiwari,Comp. Sci.,96
+597,5017,Reuter,Statistics,60
+598,33094,Fakin,Accounting,69
+599,25468,Hunter,Comp. Sci.,49
+600,75928,Yoshimoto,Cybernetics,52
+601,94522,Pampal,Civil Eng.,41
+602,30289,Lanfr,History,72
+603,54296,Osinski,Elec. Eng.,91
+604,12069,Skeen,History,10
+605,89059,Juan,Civil Eng.,62
+606,38336,Sagawe,Civil Eng.,39
+607,98563,Yen,Languages,74
+608,19541,Drews,Marketing,1
+609,95366,Isogai,Cybernetics,33
+610,69758,Baroni,Pol. Sci.,57
+611,98690,Neru,Accounting,41
+612,66494,Shevade,Biology,62
+613,65205,Sauer,Accounting,128
+614,11682,Juol,Athletics,126
+615,36265,Kaupp,Physics,98
+616,14432,Whitley,Geology,2
+617,63860,Bayn,English,106
+618,50969,Terauchi,History,119
+619,95089,Zarpell,Mech. Eng.,111
+620,74840,Schill,Biology,116
+621,29002,Duxbury,History,29
+622,37809,Soni,Geology,38
+623,27727,Duong,Finance,115
+624,66469,Komori,History,105
+625,31486,Okubo,Elec. Eng.,72
+626,95099,Chien,Accounting,81
+627,57083,Gray,Pol. Sci.,107
+628,83622,Achilles,Elec. Eng.,57
+629,68278,Becker,Psychology,83
+630,87651,Liang,Math,67
+631,8426,Harass,Pol. Sci.,67
+632,88793,Sakhno,Mech. Eng.,77
+633,60249,Nishida,Geology,83
+634,65144,Butler,Marketing,121
+635,91091,Ockerb,English,105
+636,8252,Breuer,Civil Eng.,13
+637,82126,Koizumi,Math,103
+638,13290,Bonatto,Biology,83
+639,85356,Kocsis,Marketing,68
+640,5871,Carey,Athletics,70
+641,59290,Morris,English,120
+642,5414,Aiken,Pol. Sci.,118
+643,30124,Alfaro,Math,126
+644,21008,Pavlovico,Mech. Eng.,44
+645,69732,Barbosa,English,76
+646,19450,Asahara,Cybernetics,37
+647,55915,Mohamed,Civil Eng.,78
+648,14621,Azevedo,Astronomy,17
+649,22003,Ibah,Elec. Eng.,48
+650,16631,Stratulat,Biology,20
+651,51549,Rao,Mech. Eng.,87
+652,95284,Hands,Physics,25
+653,60366,Kostie,Statistics,106
+654,99369,Klingenb,Comp. Sci.,57
+655,50873,Beck,Marketing,33
+656,36244,Neuhold,Accounting,50
+657,58874,Ray,Physics,109
+658,82687,Cameron,Athletics,77
+659,2423,Giralt,Accounting,114
+660,62429,Dietzsch,Psychology,111
+661,93631,Sendlm,History,71
+662,29705,Stetson,Finance,76
+663,52076,Noda,Astronomy,85
+664,53451,Hasan,Physics,83
+665,69730,Peip,English,12
+666,56276,Lansi,History,122
+667,23311,Brunet,Languages,83
+668,21086,Held,Math,97
+669,61003,Pietkiewicz,Math,88
+670,27950,Yüksel,English,74
+671,50583,Ng,Finance,113
+672,40276,Konstantinides,Mech. Eng.,37
+673,15487,Januszewski,Athletics,14
+674,83592,Benkov,Accounting,33
+675,46970,Rafiq,Athletics,31
+676,30188,Ahmad,Marketing,126
+677,64934,Halbert,Psychology,38
+678,99694,Beckert,Statistics,119
+679,79534,Martel-,Statistics,11
+680,57156,Haigh,Math,120
+681,41894,Ortmann,Civil Eng.,89
+682,69679,Ramírez,Accounting,7
+683,62795,Conradie,Pol. Sci.,63
+684,34331,Kacpr,Accounting,59
+685,4645,Ryoo,Finance,65
+686,70395,Ballew,Physics,128
+687,69222,Albuquerque,Math,18
+688,22254,Gordon,Statistics,75
+689,51817,MacIntyre,Physics,51
+690,66495,Michel,Statistics,82
+691,72501,Mulet,Elec. Eng.,93
+692,7390,Stone,Accounting,30
+693,28538,Mathur,Statistics,97
+694,68649,Klug,Pol. Sci.,49
+695,15249,Cheah,Accounting,1
+696,98984,Seraphin,Mech. Eng.,43
+697,35198,Loc,Civil Eng.,87
+698,67017,Westervelt,Physics,102
+699,27919,Hubr,Athletics,124
+700,46762,Bier,Comp. Sci.,71
+701,98843,Julier,Cybernetics,85
+702,14094,Miao,Comp. Sci.,45
+703,79589,Schopp,Elec. Eng.,104
+704,94371,Milner,Athletics,120
+705,25528,Sivew,Elec. Eng.,40
+706,7620,Potry,Mech. Eng.,107
+707,43658,Meneses,Astronomy,87
+708,65714,Hughes,English,19
+709,37339,Warren,Psychology,68
+710,38555,Vogt,Elec. Eng.,55
+711,73908,Cruz,Biology,60
+712,4438,Yoshioka,Cybernetics,110
+713,15883,Marques,Math,24
+714,41890,Srivastava,Physics,15
+715,75547,Varadaran,Pol. Sci.,96
+716,89196,Klöpper,Pol. Sci.,37
+717,52494,Sznajder,Statistics,25
+718,44551,Nguyen,Astronomy,119
+719,61332,Canon,Astronomy,8
+720,37715,Westbrook,Languages,53
+721,68779,Harmon,Athletics,47
+722,71768,Stephenn,Geology,89
+723,72055,Schinag,Languages,7
+724,29514,Michael,Biology,124
+725,62152,Oba,Elec. Eng.,78
+726,66212,Kurt,Finance,113
+727,53048,Keps,Cybernetics,122
+728,4015,Cole,Astronomy,32
+729,67340,Dubu,Cybernetics,38
+730,2970,Montes-y,History,56
+731,27952,McQuillan,History,51
+732,51008,Kandadai,History,107
+733,97629,Awano,Biology,101
+734,31079,Canas,Astronomy,85
+735,57941,Kleinberg,Astronomy,24
+736,30397,Dism,Civil Eng.,116
+737,45826,Teng,Mech. Eng.,70
+738,70299,Hirvas,Athletics,65
+739,9084,Rabu,Finance,87
+740,78116,Xiao,Civil Eng.,65
+741,5250,Åström,Finance,49
+742,93508,Graham,Physics,14
+743,30845,Fonseca,Math,19
+744,91442,Ohno,Pol. Sci.,91
+745,75938,Kotsonis,Marketing,71
+746,74672,Eggers,Athletics,24
+747,12078,Knutson,Languages,97
+748,94311,Napoletani,English,40
+749,94697,Pettersen,Geology,105
+750,50702,Harders,Math,63
+751,35462,Byrd,Statistics,42
+752,34018,Asahara,Elec. Eng.,103
+753,99775,Epley,Athletics,116
+754,88140,Stanko,Pol. Sci.,122
+755,46106,Pledg,Astronomy,68
+756,68096,Teo,Elec. Eng.,68
+757,84808,Randers,Psychology,104
+758,97658,Baier,Finance,82
+759,73186,Schweitzer,Psychology,3
+760,50944,Tao,Pol. Sci.,66
+761,53165,Dowey,History,90
+762,86981,Hansch,Cybernetics,3
+763,16885,Biehl,Math,59
+764,2561,Aschoff,Finance,20
+765,96178,Hay,Civil Eng.,84
+766,64731,Yuanq,Languages,13
+767,14023,Deshpande,History,90
+768,47265,Albinal,Comp. Sci.,105
+769,84704,Rammer,Physics,55
+770,69132,Sciore,Statistics,25
+771,49073,Bonvin,English,74
+772,44703,Hsieh,Marketing,5
+773,41211,Fok,Accounting,113
+774,61414,Ohyama,Elec. Eng.,90
+775,38696,Spadon,Comp. Sci.,118
+776,90009,Donofrio,Pol. Sci.,13
+777,97868,Schinag,Athletics,104
+778,17944,Hamarn,Mech. Eng.,5
+779,25380,Vassileva,English,97
+780,85614,Champes,English,87
+781,60984,Emms,Finance,48
+782,84495,Kurata,Psychology,84
+783,19321,Chang,Mech. Eng.,124
+784,99611,Schrefl,Pol. Sci.,22
+785,72485,Wetzel,Finance,33
+786,50267,Spengler,Finance,52
+787,544,Uchiyama,Biology,81
+788,55009,Pohlem,Pol. Sci.,18
+789,45083,Stasko,Marketing,44
+790,67018,Catona,Biology,46
+791,93039,Hau,English,21
+792,75772,Morton,Comp. Sci.,48
+793,60224,Bensaber,Physics,54
+794,41674,April,Biology,46
+795,97435,Winzer,Finance,77
+796,21101,Gotchev,Astronomy,117
+797,76250,Maw,History,57
+798,40682,Rowe,Geology,114
+799,39612,Androutsopoulos,Elec. Eng.,103
+800,14032,Belhadji,Elec. Eng.,0
+801,75791,Keuk,Finance,11
+802,5208,Feyr,Statistics,47
+803,43432,Caporali,Astronomy,77
+804,68453,Kjellmer,Elec. Eng.,102
+805,12711,Malagoli,Physics,97
+806,40932,Rioult,Comp. Sci.,94
+807,6710,Matli,Elec. Eng.,102
+808,91370,Frangeu,Mech. Eng.,9
+809,43912,Papakir,Finance,34
+810,12666,Power,Athletics,118
+811,74460,McWilliams,Statistics,120
+812,99422,Fickl,Civil Eng.,83
+813,95320,Morgan,Mech. Eng.,127
+814,56299,Sadry,Finance,75
+815,84432,Schrefl,Athletics,111
+816,75231,Ravindranath,Statistics,127
+817,94846,Hossain,Cybernetics,103
+818,4004,Tabor,Biology,51
+819,28361,Sorensen,Physics,109
+820,97228,Brzezinski,Mech. Eng.,25
+821,39552,Tsukamoto,Physics,72
+822,38676,Swien,Elec. Eng.,48
+823,94814,Kee,Mech. Eng.,73
+824,16035,Starker,English,94
+825,79205,Zander,Geology,115
+826,4682,Betho,Accounting,59
+827,5925,Maw,Languages,30
+828,25187,Fenwick,History,103
+829,19603,Colu,Finance,122
+830,41491,Beavis,Comp. Sci.,15
+831,99764,Lv,Marketing,104
+832,50537,Felling,Mech. Eng.,20
+833,67793,Pigd,Mech. Eng.,45
+834,47487,Villa,Finance,72
+835,19362,Linden,Finance,123
+836,25942,Leclercq,Mech. Eng.,23
+837,39238,Kyriakopoulos,Pol. Sci.,90
+838,65979,Chenu,Comp. Sci.,22
+839,22086,Ockerb,Athletics,23
+840,37734,Kamata,Civil Eng.,68
+841,17911,Audeh,Biology,92
+842,87831,Turunen,Psychology,128
+843,12214,Morales,Languages,51
+844,20378,Lomi,Languages,3
+845,11083,Kerridge,Statistics,113
+846,57377,Soricu,Elec. Eng.,40
+847,35881,Özel,Cybernetics,99
+848,34542,Basile,Physics,25
+849,91978,Pourkas,Cybernetics,128
+850,87048,Gani,Mech. Eng.,10
+851,64820,Hendrickson,Geology,79
+852,57474,Coddington,Accounting,110
+853,53496,Cashman,Marketing,27
+854,87193,Pinkus,English,25
+855,847,Yamaguchi,Elec. Eng.,105
+856,42388,Nikut,History,87
+857,62749,Giroux,Math,49
+858,41988,Gall,Languages,12
+859,85680,Krohn,Mech. Eng.,93
+860,82083,Peeri,English,58
+861,65056,Kean,Astronomy,76
+862,3639,Story,Statistics,73
+863,37038,Grieng,Math,114
+864,9933,Pircher,Geology,90
+865,65190,Dumas,Accounting,77
+866,15328,Chien,Statistics,129
+867,59455,Lowenstein,English,110
+868,49873,Nikut,Athletics,85
+869,82039,Hendrickson,Astronomy,37
+870,20974,Hawkins,Mech. Eng.,127
+871,56089,Mezzar,Marketing,109
+872,86573,Schauser,Physics,107
+873,38712,Kreutz,Elec. Eng.,29
+874,42991,Kaiser,Languages,126
+875,28019,Cayto,History,38
+876,13023,Serrano,Marketing,108
+877,31761,Jame,Pol. Sci.,57
+878,56882,Browne,Comp. Sci.,24
+879,34788,Barkov,Civil Eng.,35
+880,17607,Ould,Athletics,115
+881,48776,Wall,Statistics,58
+882,78758,Chakraborty,Geology,7
+883,77218,Lohman,Finance,51
+884,4034,Xie,Elec. Eng.,64
+885,50658,Cayto,Civil Eng.,56
+886,76057,Sakanushi,Comp. Sci.,2
+887,96067,Sugavanam,Civil Eng.,113
+888,24784,Jessup,Comp. Sci.,126
+889,31560,Neld,Languages,13
+890,32345,Chormo,Biology,38
+891,76799,Monger,Statistics,63
+892,37454,Frasinc,Biology,109
+893,30943,Botha,History,65
+894,16405,Rahman,Languages,5
+895,95850,Schrefl,Comp. Sci.,13
+896,26619,Matsukawa,Biology,58
+897,17997,Ishikawa,Languages,128
+898,26427,Ende,Finance,129
+899,73213,Fall,Psychology,64
+900,93366,Gault,Cybernetics,29
+901,33882,Borutz,Civil Eng.,3
+902,37818,Jiao,Civil Eng.,66
+903,21102,He,Biology,121
+904,76798,Clifford,Languages,43
+905,31820,Riahi,Athletics,51
+906,63489,Enokib,Comp. Sci.,81
+907,51955,Tompa,Finance,106
+908,71631,Scheine,Astronomy,87
+909,48009,Lopes,Pol. Sci.,36
+910,51678,Klivansky,Pol. Sci.,49
+911,73602,Richardson,History,119
+912,11530,Ng,Marketing,92
+913,32376,Nakajima,Astronomy,8
+914,80799,Almeida,Finance,106
+915,40178,Greene,Mech. Eng.,93
+916,58701,Hampp,Geology,44
+917,46655,Advani,Athletics,112
+918,93043,McQuillan,Marketing,42
+919,1402,Oswald,Comp. Sci.,12
+920,29462,Daues,Pol. Sci.,88
+921,49701,Read,Civil Eng.,33
+922,96968,Mohamed,Mech. Eng.,118
+923,89551,Shapiro,History,127
+924,32483,Atre,Math,114
+925,39472,Soper,Elec. Eng.,62
+926,88045,Jackson,Languages,126
+927,30474,Paniez,Athletics,55
+928,31476,OConnor,Elec. Eng.,7
+929,95175,Guiho,Elec. Eng.,42
+930,95697,Gruns,Cybernetics,77
+931,37759,Signah,Cybernetics,26
+932,96134,Prince,Languages,121
+933,92464,Enokib,History,47
+934,78434,Ruhe,Psychology,26
+935,44038,Chandra,Civil Eng.,11
+936,43993,Halbert,Math,113
+937,914,Schill,Comp. Sci.,32
+938,19342,Bouzeghoub,Finance,35
+939,13749,Alfaro,Marketing,23
+940,33546,Saguez,Pol. Sci.,53
+941,40116,Joshi,Psychology,23
+942,46980,Roessler,Astronomy,58
+943,31266,Kacpr,Physics,22
+944,65688,Loudn,Mech. Eng.,65
+945,65563,Bawa,Psychology,111
+946,83314,Chow,Accounting,40
+947,39876,Wood,Accounting,14
+948,44706,Bland,English,119
+949,15086,Sun,Physics,74
+950,12615,Tewari,Geology,40
+951,63538,Pulido,History,46
+952,17831,Srivastava,Languages,75
+953,96117,Nisso,English,128
+954,82066,Varghese,Comp. Sci.,11
+955,28738,Birkett,Civil Eng.,94
+956,84515,Levie,Biology,126
+957,90132,Jo,Psychology,11
+958,8192,Verma,Civil Eng.,123
+959,25611,Sve,English,107
+960,50743,Lindner,Biology,83
+961,41683,Pietkiewicz,Biology,20
+962,99553,Strader,Languages,6
+963,22179,Sundho,Statistics,40
+964,65121,Winter,Comp. Sci.,56
+965,52057,Garg,Elec. Eng.,101
+966,931,Tsalidi,English,122
+967,23392,Curutchet,Elec. Eng.,43
+968,33759,Mowbray,Psychology,44
+969,52203,Suwanno,Pol. Sci.,41
+970,78581,Hegde,Finance,41
+971,65241,Riser,Astronomy,96
+972,45359,Zelek,Marketing,79
+973,86001,Meise,English,27
+974,22532,Silverman,History,120
+975,97573,Yusop,Physics,60
+976,90609,Mohamed,Finance,95
+977,16528,Angs,Accounting,24
+978,61920,Marcol,Geology,59
+979,282,Rougemont,Languages,34
+980,85602,Bogdanova,Pol. Sci.,81
+981,62832,Anderson,English,19
+982,78454,Michael,Pol. Sci.,68
+983,30222,Lepp,Accounting,121
+984,28994,Williamson,Statistics,104
+985,39927,Bartels,History,62
+986,74070,Sandberg,Mech. Eng.,119
+987,65208,Farahvash,Civil Eng.,45
+988,2286,Ceze,Elec. Eng.,65
+989,49450,Gotoh,Astronomy,83
+990,83214,Dasd,Biology,35
+991,6287,Makowski,Pol. Sci.,32
+992,86661,Shani,Elec. Eng.,21
+993,68242,Hugo,English,109
+994,42092,Arinb,Comp. Sci.,47
+995,9993,Won,Math,40
+996,89734,Doeschn,Astronomy,66
+997,7732,Osc,Comp. Sci.,98
+998,89312,Marques,Statistics,101
+999,35357,Gradino,English,34
+1000,86127,Spikov,Math,27
+1001,18775,Pampal,Comp. Sci.,89
+1002,24374,Jo,Cybernetics,105
+1003,2848,Carr,Civil Eng.,121
+1004,78143,Erdem,Astronomy,12
+1005,50977,Allen,Elec. Eng.,93
+1006,96895,Stelzl,Statistics,94
+1007,95626,Tellez,Math,32
+1008,22260,Daat,Accounting,8
+1009,23224,Kempn,Psychology,81
+1010,27528,Probst,Biology,95
+1011,71025,Cadis,History,129
+1012,36845,Okaf,Math,30
+1013,17924,Tavan,Psychology,97
+1014,69632,Gibbs,Languages,40
+1015,70828,Kaska,Physics,88
+1016,27687,Yüksel,Physics,31
+1017,28299,Grange,Languages,120
+1018,14869,Palmer,Astronomy,106
+1019,11152,Al-Tahat,English,87
+1020,17507,Mathur,Mech. Eng.,48
+1021,57107,Janssen,Astronomy,36
+1022,47670,Xue,Pol. Sci.,55
+1023,25718,Seyfert,Athletics,83
+1024,67293,Ueno,History,19
+1025,41091,Maillet,Geology,66
+1026,86674,Peter,Biology,105
+1027,23506,Åström,Pol. Sci.,109
+1028,8022,Heng,Languages,74
+1029,97953,Kaneko,Math,110
+1030,86934,Berthold,Athletics,35
+1031,58172,Geißl,Astronomy,127
+1032,81610,Ching,Languages,0
+1033,77172,Klepper,Statistics,64
+1034,499,Seike,Elec. Eng.,52
+1035,94730,Neff,Geology,101
+1036,40371,Trimble,Physics,109
+1037,3651,Narayanan,Elec. Eng.,14
+1038,85904,Harass,Cybernetics,120
+1039,73394,Blasbe,Geology,96
+1040,8807,Zacharias,Finance,33
+1041,62705,Hoffman,Marketing,86
+1042,11578,Kwan,Languages,37
+1043,68248,Tillmann,Athletics,83
+1044,98315,Saill,Pol. Sci.,65
+1045,62754,Durrant,Geology,54
+1046,41406,Dahmann,Biology,24
+1047,82063,Zeng,Athletics,68
+1048,87706,Nakao,Physics,80
+1049,20540,Cunha,History,58
+1050,69960,Raïev,Biology,17
+1051,30252,Folkers,Geology,80
+1052,70098,Prabhakaran,Biology,61
+1053,93986,Zahrani,Physics,73
+1054,35685,Usi,History,31
+1055,31364,Rieger,Biology,94
+1056,36494,Baccou,Psychology,41
+1057,32217,Argar,Math,14
+1058,69952,Muñoz,Psychology,115
+1059,52523,Hobbs,English,14
+1060,7149,Xin,Pol. Sci.,120
+1061,71878,Hayat,Finance,27
+1062,29192,Gomez,Geology,81
+1063,79446,Frost,Pol. Sci.,24
+1064,77000,Cherchi,Physics,125
+1065,1836,Marinov,Elec. Eng.,85
+1066,84167,Sakanushi,Comp. Sci.,20
+1067,81785,Crues,Civil Eng.,102
+1068,1087,Roses,Accounting,73
+1069,5617,Souza,Languages,60
+1070,53547,Neubert,Mech. Eng.,66
+1071,39978,Drig,English,92
+1072,60748,Nagal,Elec. Eng.,58
+1073,23449,Noda,Cybernetics,94
+1074,52385,Higuchi,Astronomy,78
+1075,2139,Agarwal,Physics,99
+1076,12941,Ren,Marketing,76
+1077,72521,Caleff,Mech. Eng.,48
+1078,82580,Wyes,Mech. Eng.,103
+1079,39394,Reinhardt,History,84
+1080,39901,Dellwo,Biology,82
+1081,3493,Riser,Geology,16
+1082,90353,Bruderm,Astronomy,46
+1083,69747,Beichn,Finance,34
+1084,39514,Yean,Accounting,65
+1085,36995,Sgot,Finance,79
+1086,12971,Bumbau,Elec. Eng.,47
+1087,76768,Oblak,Pol. Sci.,56
+1088,79502,Marongiu,Math,84
+1089,63390,Loudn,Cybernetics,41
+1090,19824,Savelieva,Physics,7
+1091,46769,Kivv,Psychology,85
+1092,65400,Horecz,Psychology,49
+1093,44258,Steinmetz,Accounting,28
+1094,81896,Feldman,Finance,46
+1095,79772,Witty,Marketing,4
+1096,46155,Kruglyak,Astronomy,67
+1097,18709,Agar,Math,65
+1098,63502,Xie,Languages,69
+1099,39521,Holloway,Accounting,113
+1100,51203,Lahtinen,Math,99
+1101,96741,Kobayashi,Comp. Sci.,87
+1102,38371,Harada,Math,50
+1103,59673,Mertens,Astronomy,98
+1104,13365,Wolter,Mech. Eng.,55
+1105,1000,Manber,Civil Eng.,39
+1106,19735,Bishop,Physics,9
+1107,34126,Schreitm,Accounting,14
+1108,16467,Meyl,Comp. Sci.,92
+1109,80248,Satoh,English,74
+1110,58634,Choung,Finance,101
+1111,51975,Nicol,Languages,127
+1112,77548,Krohn,History,45
+1113,74796,Vulp,History,108
+1114,85981,Kahs,Statistics,91
+1115,29645,Oller,History,120
+1116,89234,Hird,Civil Eng.,78
+1117,94142,Simon,Languages,45
+1118,79697,Marquis,Accounting,75
+1119,90089,Mohan,Astronomy,28
+1120,20244,Abu-B,Marketing,112
+1121,37350,Sohn,Physics,49
+1122,81638,Chiu,Statistics,30
+1123,90914,Grange,Pol. Sci.,38
+1124,75395,Moscarini,Psychology,19
+1125,42556,Tsantis,Languages,43
+1126,10556,Reed,English,79
+1127,39619,Dwyer,Mech. Eng.,89
+1128,38288,Matsuda,Mech. Eng.,107
+1129,20985,Wunderli,History,66
+1130,38548,Scibili,Pol. Sci.,88
+1131,15698,Dink,Psychology,72
+1132,23500,Kinney,Marketing,68
+1133,70965,Dooley,Languages,66
+1134,76911,Alart,Finance,66
+1135,3545,Peskin,Statistics,119
+1136,46694,Masamura,Math,118
+1137,99977,Englund,Psychology,93
+1138,90124,Koppit,Physics,104
+1139,95840,Jakobsen,History,127
+1140,56143,Yusop,Civil Eng.,86
+1141,79469,Jacobs,Math,38
+1142,3693,Zafar,Athletics,27
+1143,42096,Freib,Biology,10
+1144,88472,Lynch,Marketing,12
+1145,14874,Singhal,Comp. Sci.,34
+1146,978,Salzman,Comp. Sci.,127
+1147,33201,Macias,Civil Eng.,61
+1148,30161,Grude,Cybernetics,23
+1149,46441,Zander,Athletics,18
+1150,31035,Arnoux,Civil Eng.,92
+1151,67371,Garcia-Ferr,Geology,70
+1152,80651,Holz,English,108
+1153,43505,Yoon,Statistics,118
+1154,35498,Lanfr,Accounting,78
+1155,48423,Krone,Pol. Sci.,80
+1156,51093,Syng,Psychology,92
+1157,78572,Kurt,Comp. Sci.,20
+1158,52669,Rayad,Physics,114
+1159,87246,Dellwo,Comp. Sci.,15
+1160,69122,Epstein,Biology,128
+1161,52945,Adeni,Languages,13
+1162,52471,Recc,Finance,110
+1163,62728,Camme,Biology,107
+1164,52929,Hashim,Math,118
+1165,85754,Betho,Finance,45
+1166,18583,Ma,Finance,74
+1167,74974,Lao,Athletics,86
+1168,48611,Suppan,Geology,102
+1169,63582,Fischer,Pol. Sci.,120
+1170,53118,Carvey,Comp. Sci.,120
+1171,88887,Wodn,Languages,122
+1172,81175,Zelek,Biology,0
+1173,69783,Putru,Pol. Sci.,117
+1174,14829,Philippe,Accounting,105
+1175,53469,Fujii,Astronomy,43
+1176,44304,Cox,English,31
+1177,48861,Ende,Accounting,54
+1178,73411,Schulz,Math,78
+1179,95225,Moire,Languages,99
+1180,53788,Byun,Astronomy,101
+1181,68712,Hill,Civil Eng.,30
+1182,52866,Loull,Math,30
+1183,5298,Radici,Finance,10
+1184,58606,Opitz,Cybernetics,91
+1185,76049,Tavan,Cybernetics,112
+1186,78858,Abdul-Rahman,Psychology,49
+1187,97041,Rajnov,Psychology,22
+1188,98388,Nilsson,Math,33
+1189,15024,Kawahara,Civil Eng.,10
+1190,5243,Bajracharya,Marketing,83
+1191,80990,Strzem,Biology,117
+1192,77664,Apostolov,Marketing,125
+1193,49982,Haigh,Geology,41
+1194,87222,Allard,Mech. Eng.,114
+1195,35523,Yamamoto,Accounting,15
+1196,14499,Axte,Biology,115
+1197,33107,Liley,Civil Eng.,16
+1198,18108,Brailsford,Cybernetics,107
+1199,67655,Kuch,Math,46
+1200,95852,Cabr,Athletics,48
+1201,50664,Rajnov,Biology,127
+1202,59117,Belmes,Astronomy,109
+1203,435,Moskow,Languages,32
+1204,75596,Sayre,Biology,19
+1205,34197,Nestor,Languages,106
+1206,66281,Schelten,Civil Eng.,49
+1207,86736,Franchet,Finance,94
+1208,14484,Langer,Astronomy,62
+1209,88308,Reiss,English,19
+1210,36657,Ching,English,51
+1211,93125,Harders,Physics,47
+1212,29140,Reuver,Elec. Eng.,123
+1213,85211,Sumi,Athletics,109
+1214,23525,DAgostino,Elec. Eng.,128
+1215,3005,Ibrahim,Pol. Sci.,73
+1216,91197,Manzoor,Geology,110
+1217,1285,Szczerban,Pol. Sci.,97
+1218,29863,Harmon,Athletics,112
+1219,15070,Enokib,Math,65
+1220,98047,Takahashi,History,49
+1221,87624,Carrera,Civil Eng.,81
+1222,38902,Xiang,Math,61
+1223,15538,Yeung,Athletics,111
+1224,83691,Katehakis,Mech. Eng.,33
+1225,89759,Zettel,Mech. Eng.,55
+1226,34770,Porter,Languages,111
+1227,11202,Heckman,Math,120
+1228,65681,Roses,English,17
+1229,17665,Tewari,English,62
+1230,11966,Kowe,Math,69
+1231,21556,Negron,Marketing,60
+1232,24002,Russa,Languages,14
+1233,75878,Hahn-,Physics,53
+1234,52120,Redw,Physics,8
+1235,93491,Rees-,History,74
+1236,78637,Beeu,Physics,42
+1237,9256,Tran-,Pol. Sci.,107
+1238,41345,Tola,Finance,17
+1239,98726,Mathias,Comp. Sci.,36
+1240,5381,Diana,Languages,30
+1241,99647,Bellman,English,106
+1242,50331,Bullinger,Psychology,9
+1243,48247,Gustafsson,History,80
+1244,65753,Planti,Geology,12
+1245,29091,Ahso,Pol. Sci.,22
+1246,72165,Otsuki,Psychology,61
+1247,43981,Quimby,Pol. Sci.,87
+1248,16057,Wicki,Mech. Eng.,114
+1249,88525,Hung,Mech. Eng.,92
+1250,16480,Noga,Psychology,5
+1251,92849,Flossmann,Astronomy,54
+1252,9495,Crimm,Comp. Sci.,68
+1253,14581,Vagn,Biology,129
+1254,65901,Shishkin,Accounting,120
+1255,96203,Olin,Comp. Sci.,87
+1256,1954,Frank,Geology,29
+1257,66484,Amberg,Mech. Eng.,75
+1258,15083,Formisano,Physics,50
+1259,48901,Gong,Marketing,57
+1260,15340,Silbert,Psychology,39
+1261,16515,Suppan,Languages,48
+1262,54620,Hancock,Geology,27
+1263,15430,Sasso,Psychology,39
+1264,27236,Date,Astronomy,105
+1265,2201,Sauer,Biology,99
+1266,69471,Aly,Astronomy,41
+1267,13880,Lazos,Physics,98
+1268,827,Das,Languages,98
+1269,42960,McGinn,Finance,95
+1270,48471,Elias,Languages,90
+1271,13217,Liu,Athletics,95
+1272,45570,Hoyos,Biology,99
+1273,94815,Xiang,Finance,6
+1274,1922,Cavalcanti,Athletics,48
+1275,51084,Pah,Languages,63
+1276,842,Jode,Languages,81
+1277,53152,Sayre,Civil Eng.,18
+1278,11201,Bianchi,Statistics,0
+1279,88577,Smoro,Astronomy,91
+1280,22050,Alioto,Physics,108
+1281,68010,Blecken,Pol. Sci.,43
+1282,10838,Marlet,Accounting,91
+1283,59848,Barwin,History,86
+1284,7035,Liots,English,23
+1285,5463,Reiss,Finance,95
+1286,74464,Sulimova,Athletics,76
+1287,16969,Hakkinen,Finance,70
+1288,62054,Wood,Mech. Eng.,13
+1289,50719,Model,Geology,66
+1290,41280,Birtz,Finance,83
+1291,31341,Rotter,Marketing,32
+1292,23475,Cecchi,Athletics,16
+1293,55354,Yang,Comp. Sci.,107
+1294,50966,Concilio,Finance,95
+1295,10269,Hilberg,Psychology,75
+1296,92659,Mathias,Biology,98
+1297,49792,Petersen,Accounting,38
+1298,27140,Fitzpatrick,Marketing,98
+1299,993,McGarr,Comp. Sci.,55
+1300,58326,Afim,Accounting,100
+1301,70924,Rajnov,Civil Eng.,0
+1302,71944,Schinag,Mech. Eng.,58
+1303,95201,Yang,Psychology,28
+1304,52876,Dahmann,Languages,50
+1305,58355,Honeyman,Athletics,42
+1306,90181,Giannoulis,Biology,23
+1307,53799,Okabe,Cybernetics,12
+1308,13511,Adam,Cybernetics,15
+1309,69521,Greenbaum,Accounting,124
+1310,37946,Vrato,Finance,110
+1311,15578,Pacie,Elec. Eng.,32
+1312,16311,Liao,Accounting,33
+1313,56124,Strieg,Civil Eng.,33
+1314,63560,Gleit,History,82
+1315,75299,Miao,Marketing,82
+1316,61356,Vulp,Cybernetics,6
+1317,70061,Konno,Comp. Sci.,50
+1318,61232,Fukui,Pol. Sci.,48
+1319,16523,Redw,Math,117
+1320,57238,Rehd,Accounting,33
+1321,63645,Mandviwall,Marketing,20
+1322,55857,Martin,Languages,74
+1323,90041,Barberis,Mech. Eng.,122
+1324,68263,Roessler,Languages,69
+1325,48165,Asikainen,Marketing,57
+1326,23373,Lang,Astronomy,70
+1327,5336,Peltz,Math,22
+1328,18286,Pang,Finance,110
+1329,4860,Penneb,Elec. Eng.,83
+1330,68516,Kouan,Mech. Eng.,8
+1331,94766,Buril,History,81
+1332,72669,Schmitz,Elec. Eng.,126
+1333,41596,Abeggl,Finance,51
+1334,55286,Kihn,Mech. Eng.,73
+1335,10693,Zabary,Statistics,111
+1336,50467,Kabir,Athletics,71
+1337,21692,Nagal,Accounting,83
+1338,8517,Tomkins,Pol. Sci.,100
+1339,28133,Evano,Civil Eng.,53
+1340,10033,Zelty,Mech. Eng.,60
+1341,60406,Sofer,Physics,113
+1342,50703,Blanchard,Astronomy,44
+1343,98359,Patne,Accounting,105
+1344,23992,Thornton,Psychology,58
+1345,31554,Fuller,Geology,102
+1346,70807,Kreitman,Math,91
+1347,4355,Cui,English,127
+1348,8457,Christiansen,Mech. Eng.,26
+1349,10904,Jerns,History,21
+1350,83836,Gifford,Pol. Sci.,64
+1351,72657,Hird,Comp. Sci.,129
+1352,46035,Kamez,Biology,42
+1353,36881,Dalton,Biology,32
+1354,79487,Androutsopoulos,Languages,2
+1355,48778,Pup,Psychology,107
+1356,64039,Aarde,Civil Eng.,120
+1357,42565,Hartsk,Astronomy,27
+1358,29665,Lykin,Languages,94
+1359,83511,Godfrey,Finance,87
+1360,45494,Matsush,Geology,105
+1361,12173,Thimm,English,60
+1362,16993,Akaiw,Accounting,82
+1363,62784,Stylian,Biology,65
+1364,23344,Fierro-,Math,56
+1365,92417,Dubink,Comp. Sci.,92
+1366,86529,Leister,Accounting,22
+1367,84654,Braña,Statistics,59
+1368,52134,Johnson,Physics,9
+1369,90234,Sram,Biology,31
+1370,13921,Berger,Math,120
+1371,76169,Williamson,Astronomy,123
+1372,41832,Curl,History,2
+1373,68720,Gordon,Civil Eng.,94
+1374,66753,Mazzat,Math,17
+1375,13753,Hoshi,Civil Eng.,68
+1376,57190,Theuniss,History,73
+1377,27804,Brunt,English,75
+1378,63449,Sellink,Accounting,39
+1379,27017,Trur,Elec. Eng.,11
+1380,52291,Wolff,Mech. Eng.,39
+1381,80941,Sankappanavar,Math,70
+1382,95953,Batano,Comp. Sci.,77
+1383,72528,Tuki,Cybernetics,76
+1384,61854,Roytman,Psychology,128
+1385,91851,Tchuri,History,101
+1386,38973,Maglioni,Comp. Sci.,56
+1387,83480,Whitten,Psychology,9
+1388,13504,Zander,Astronomy,90
+1389,19766,Simon,Biology,29
+1390,50365,Held,Mech. Eng.,121
+1391,43616,Tam,Athletics,15
+1392,19917,Hayrapetyan,Languages,121
+1393,29849,Solar,Physics,90
+1394,85063,Chaney,Mech. Eng.,4
+1395,70564,Bouguet,Psychology,13
+1396,38121,Zuyev,English,98
+1397,14563,Haigh,Comp. Sci.,16
+1398,6895,Portillo,Geology,4
+1399,3039,Brookh,Languages,47
+1400,86969,Wicki,Cybernetics,125
+1401,11455,Peyse,Athletics,18
+1402,24809,Engeldr,Psychology,23
+1403,50414,Landau,Accounting,49
+1404,57026,Rotom,Geology,44
+1405,69081,Stratulat,Geology,59
+1406,7498,Charng,Physics,82
+1407,34158,Mantzo,Astronomy,127
+1408,15144,Lapio,Statistics,110
+1409,88287,Geser,Athletics,61
+1410,72006,Jawad,Comp. Sci.,114
+1411,49244,Chikar,Psychology,49
+1412,14639,Sagiv,Mech. Eng.,26
+1413,76604,Çivi,History,99
+1414,80113,Boudjelo,Geology,10
+1415,18740,Williamson,Athletics,16
+1416,69628,Bouamama,Psychology,124
+1417,13757,Bedny,Astronomy,3
+1418,36513,Ugarte,Athletics,99
+1419,97042,Bhargava,Pol. Sci.,68
+1420,46260,Bloom,History,55
+1421,29871,Iwasa,Math,75
+1422,75082,Havill,Comp. Sci.,119
+1423,65715,Novak,Mech. Eng.,37
+1424,54875,Feng,Statistics,83
+1425,99710,Savolainen,Languages,126
+1426,36384,Sandsj,Finance,62
+1427,51923,Peterson,Civil Eng.,128
+1428,37653,Campbell,Marketing,64
+1429,61783,Guyer,Comp. Sci.,102
+1430,86552,Martin,Pol. Sci.,78
+1431,11855,Mendelzon,Languages,114
+1432,43016,Beekw,History,77
+1433,11237,Rokhs,Physics,5
+1434,96710,Katehakis,Languages,51
+1435,27044,Kota,Elec. Eng.,45
+1436,25046,Cotterill,Finance,57
+1437,62487,Durrant,History,68
+1438,49759,Androutsopoulos,Finance,110
+1439,65101,Spengler,Civil Eng.,73
+1440,64550,Kubo,Statistics,42
+1441,25143,Visr,Accounting,11
+1442,13495,Srini,Pol. Sci.,34
+1443,67560,Sandberg,Geology,63
+1444,28316,Rajan,Mech. Eng.,61
+1445,47379,Wakamiya,Comp. Sci.,113
+1446,56003,Someren,Geology,39
+1447,32369,Kaleta,Psychology,34
+1448,52187,Fritsch,Math,98
+1449,91992,DAtri,Cybernetics,85
+1450,71543,Mizuno,Civil Eng.,61
+1451,1220,Hito,Geology,42
+1452,40937,Petzo,Geology,115
+1453,14065,Starker,History,7
+1454,43495,Scher,Astronomy,111
+1455,26494,Heers,Psychology,28
+1456,12362,Zhanr,Civil Eng.,115
+1457,41675,Wheeler,Physics,32
+1458,78314,Visr,English,14
+1459,51579,Holz,Biology,89
+1460,2178,Mingoz,Elec. Eng.,41
+1461,86707,Houtsm,Marketing,53
+1462,56849,Osaka,Accounting,27
+1463,6712,Westphal,Math,60
+1464,17207,Holn,Astronomy,57
+1465,81876,Arora,Biology,106
+1466,66259,Schulman,Biology,67
+1467,75794,Hons,History,9
+1468,77003,Munro,Astronomy,42
+1469,31101,Lhomme,Astronomy,110
+1470,64196,Rioult,Pol. Sci.,6
+1471,14628,Lehtinen,Psychology,47
+1472,24197,Andert,Physics,98
+1473,3576,Nakanishi,Physics,97
+1474,45720,Yeoh,Physics,118
+1475,15980,Ross,Athletics,81
+1476,34569,Arndt,Accounting,39
+1477,73492,Hwang,Mech. Eng.,23
+1478,44836,Lanfr,Civil Eng.,75
+1479,27366,Ssu,History,83
+1480,16250,Uhrig,English,87
+1481,10267,Rzecz,Comp. Sci.,5
+1482,77244,Benitez,Geology,37
+1483,7854,Someren,Pol. Sci.,113
+1484,1726,Matsunami,Biology,94
+1485,8347,Wunderli,Comp. Sci.,100
+1486,83573,Pavlovico,English,81
+1487,6209,Baccou,English,74
+1488,85849,Aufr,Accounting,56
+1489,76224,Neilson,Elec. Eng.,34
+1490,7043,Gryts,History,52
+1491,70235,Zle,Elec. Eng.,105
+1492,47824,Hardt,Astronomy,94
+1493,58935,Kimu,Pol. Sci.,31
+1494,987,Kasani,Athletics,0
+1495,46074,Fong,Finance,56
+1496,23270,Bouras,Biology,109
+1497,42956,Ram,Physics,60
+1498,78481,Clemme,History,23
+1499,888,Frost,Geology,77
+1500,42625,Holland,Languages,0
+1501,43211,Xylo,Astronomy,48
+1502,43226,Shoji,Biology,83
+1503,53172,Du,Comp. Sci.,28
+1504,16133,Orlet,Cybernetics,43
+1505,75522,Yin,Biology,109
+1506,68330,Soisalon-Soininen,Pol. Sci.,13
+1507,53225,Juan,Finance,92
+1508,67542,Jones,Civil Eng.,15
+1509,8860,Aminian,Finance,13
+1510,22198,Read,Languages,101
+1511,56212,Rolland,History,98
+1512,67514,Psil,Comp. Sci.,25
+1513,58919,Schroeder,Languages,60
+1514,82707,Hadzilacos,Statistics,0
+1515,86641,Dair,Civil Eng.,101
+1516,94324,Willson,Geology,120
+1517,75534,Simmel,English,93
+1518,15283,Williams,Astronomy,0
+1519,47677,Tso,Psychology,108
+1520,94569,Yip,English,122
+1521,90814,Finance,Elec. Eng.,105
+1522,63310,Luan,History,102
+1523,48660,Emam,Psychology,77
+1524,35293,Cao,Languages,89
+1525,28004,Savelieva,Finance,17
+1526,50038,Urano,Languages,60
+1527,25940,Rosenkrantz,Comp. Sci.,117
+1528,11126,Englund,Pol. Sci.,76
+1529,92332,Nicol,Languages,34
+1530,18752,Schulman,Civil Eng.,102
+1531,61527,Shwartz,Comp. Sci.,10
+1532,32119,Nagashima,Elec. Eng.,12
+1533,163,Bandekar,Finance,49
+1534,32065,Tapia,Math,90
+1535,45436,Ahmadian,Psychology,101
+1536,58085,Bic,Pol. Sci.,28
+1537,17076,King,Statistics,42
+1538,17133,Kang,Civil Eng.,109
+1539,36791,Bomme,Elec. Eng.,84
+1540,25785,Knezo,Athletics,66
+1541,11055,Arnoux,Geology,121
+1542,96227,Vulp,Civil Eng.,88
+1543,67024,Aufr,Elec. Eng.,62
+1544,69307,Gierl,Mech. Eng.,15
+1545,23439,Cai,English,101
+1546,66969,Sui,Civil Eng.,74
+1547,22268,Dang,Astronomy,78
+1548,41938,Jordan,History,93
+1549,17057,Swartj,Geology,94
+1550,92693,Mattor,Athletics,73
+1551,49503,Seaz,Finance,105
+1552,77130,Tyler,Math,1
+1553,7861,Bollen,Pol. Sci.,122
+1554,51538,Ang,Geology,8
+1555,57787,Alexandri,Marketing,60
+1556,75116,Samar,Mech. Eng.,127
+1557,81984,Gowi,Mech. Eng.,48
+1558,68395,Jessup,History,110
+1559,11057,Robinson,Marketing,120
+1560,20002,Fournier,Accounting,54
+1561,95027,Bauer,Accounting,45
+1562,7514,Rical,History,11
+1563,88358,Bongio,Astronomy,29
+1564,34392,Lauciu,History,20
+1565,57538,Albuquerque,Comp. Sci.,100
+1566,9114,Swien,Marketing,119
+1567,8378,Stenv,English,47
+1568,51416,Shan,Psychology,51
+1569,71389,Vegt,Mech. Eng.,60
+1570,16453,Kanata,Astronomy,78
+1571,62226,Brookh,English,39
+1572,26028,Birchler,Statistics,47
+1573,45817,Herrmann,Psychology,78
+1574,48469,Kolodko,Elec. Eng.,113
+1575,69230,Masum,Athletics,119
+1576,99711,Deshpande,Pol. Sci.,24
+1577,26695,Hac,Finance,104
+1578,2501,Leitner,Astronomy,70
+1579,8819,Lesaffre,Elec. Eng.,1
+1580,507,Recc,History,117
+1581,80698,Eynd,Languages,29
+1582,73328,Stokic,History,36
+1583,23457,Shakhnovich,Accounting,48
+1584,17996,Karpist,Finance,103
+1585,75173,Basturk,Elec. Eng.,54
+1586,25552,Calles,Finance,110
+1587,63612,Duxbury,Math,71
+1588,27898,Holloway,English,81
+1589,33401,Campbell,Elec. Eng.,22
+1590,49280,Wilson,Psychology,89
+1591,66279,Reynolds,Math,91
+1592,12326,Watson,Finance,50
+1593,32772,Leventhal,English,54
+1594,25725,Steeh,Geology,125
+1595,89571,Zubai,Comp. Sci.,88
+1596,99780,Bravo,English,100
+1597,91580,Cabr,Mech. Eng.,96
+1598,27043,Garze,Athletics,119
+1599,96615,Anty,English,9
+1600,39892,Urano,Athletics,92
+1601,1232,Marcus,Marketing,110
+1602,22467,Dias,Finance,95
+1603,88884,Stasko,Elec. Eng.,14
+1604,96911,Jamro,English,13
+1605,46337,Nagaraj,Cybernetics,83
+1606,23110,Sahani,Comp. Sci.,97
+1607,60762,Bernstein,Civil Eng.,120
+1608,65676,Aufr,Astronomy,93
+1609,47025,Jouny,Psychology,72
+1610,1812,Chyr,Marketing,47
+1611,66763,Wilks,Comp. Sci.,95
+1612,52741,Bernhart,Astronomy,50
+1613,78911,Shavel,Math,86
+1614,33206,McCormack,Civil Eng.,109
+1615,15030,Massour,Mech. Eng.,44
+1616,11377,Jr,Accounting,100
+1617,17676,Michel,Psychology,43
+1618,52019,Engen,Athletics,112
+1619,64013,Auriche,Elec. Eng.,107
+1620,45770,Beekw,Elec. Eng.,97
+1621,63288,Stilla,Civil Eng.,19
+1622,92949,Retzel,Pol. Sci.,125
+1623,83871,Stylian,Languages,92
+1624,41671,Valf,Geology,68
+1625,645,Kane,Elec. Eng.,58
+1626,61444,Vries,Cybernetics,125
+1627,85534,Setiawan,Psychology,19
+1628,35362,ONi,Statistics,53
+1629,22417,McGuinness,Geology,55
+1630,5961,Lavina,Geology,79
+1631,35257,Ebou,Comp. Sci.,65
+1632,65299,Schwarze,Athletics,57
+1633,18367,Goodwin,Civil Eng.,95
+1634,68396,Klimasauskas,Biology,72
+1635,35905,Lima,Athletics,19
+1636,45650,Mateo,Marketing,40
+1637,27662,Tabarr,Cybernetics,21
+1638,25077,Palomo,Cybernetics,82
+1639,85575,Lal,Astronomy,15
+1640,760,Liedm,Geology,100
+1641,67583,Senn,Comp. Sci.,93
+1642,63886,Kuo,Biology,12
+1643,34055,Orono,Astronomy,115
+1644,41973,Werf,Civil Eng.,115
+1645,30017,Mateo,History,96
+1646,37581,Arndt,Cybernetics,68
+1647,62373,Cheed,Accounting,60
+1648,57160,Baer,Accounting,81
+1649,2967,Stokic,Mech. Eng.,16
+1650,5144,Abdellatif,Geology,55
+1651,5703,Yasuda,Accounting,23
+1652,58170,Lao,Statistics,119
+1653,53424,Lemoine,Languages,10
+1654,17397,Caleff,Languages,31
+1655,77588,Aguilar,Psychology,111
+1656,92442,Satoh,Statistics,81
+1657,42114,Mezzar,Cybernetics,98
+1658,53699,Cordt,Languages,39
+1659,22258,Larion,Languages,3
+1660,2133,Nardi,Accounting,60
+1661,73606,Sachse,Cybernetics,93
+1662,63040,Hochri,Astronomy,63
+1663,74473,Ledermann,Statistics,22
+1664,9659,Sakhno,Cybernetics,67
+1665,21552,Bradshaw,Physics,71
+1666,45002,Abraham,Psychology,109
+1667,57213,Andrew,Math,64
+1668,56058,Fettes,Pol. Sci.,128
+1669,84792,Angelo,Civil Eng.,81
+1670,57185,ShuQ,Psychology,25
+1671,75510,Dumont,Physics,114
+1672,42560,Amr,Pol. Sci.,80
+1673,75252,Huo,Languages,0
+1674,82402,Grant,Comp. Sci.,5
+1675,17339,Petzo,English,58
+1676,77148,Hinik,Pol. Sci.,35
+1677,11419,Geronimo,Civil Eng.,66
+1678,37869,Beeu,English,109
+1679,28977,Chatterton,Psychology,73
+1680,28989,Albinal,Astronomy,107
+1681,92867,Khene,Languages,69
+1682,92703,Makinen,Cybernetics,29
+1683,17600,Peter,Languages,47
+1684,32464,Kinney,Accounting,5
+1685,71426,Flecker,Languages,38
+1686,8343,Shoji,History,108
+1687,41261,Hubr,Physics,32
+1688,58469,Lutes,Athletics,64
+1689,36303,Nair,Mech. Eng.,46
+1690,30164,Ende,Athletics,114
+1691,29920,Kogure,Psychology,62
+1692,30858,Shaffer,Physics,42
+1693,88801,Fonseca,Athletics,102
+1694,57780,Trezz,Athletics,86
+1695,21246,Rais,Civil Eng.,52
+1696,34957,Kalogerou,Elec. Eng.,71
+1697,61998,Sohn,Civil Eng.,22
+1698,56598,Carey,Cybernetics,58
+1699,463,Houtsm,Physics,78
+1700,81245,Mandviwall,Languages,35
+1701,21100,Juchn,Physics,51
+1702,56,Kameda,Cybernetics,81
+1703,64121,Mansint,Math,115
+1704,20489,Shuming,History,2
+1705,10834,More,Geology,126
+1706,63289,So,Psychology,0
+1707,9953,Wilks,Biology,45
+1708,78782,Sherman,Math,104
+1709,5399,Chun,Pol. Sci.,25
+1710,1367,Ignj,Math,69
+1711,30896,Rueda,Comp. Sci.,61
+1712,12236,Bricker,Accounting,116
+1713,89297,Cacciari,Astronomy,70
+1714,52656,Phillips,Psychology,6
+1715,18859,Rubio,English,21
+1716,17377,Pisini,English,67
+1717,50039,Kurt,Statistics,126
+1718,78756,Dai,Athletics,93
+1719,3833,Hayat,Biology,53
+1720,47627,Warren,Statistics,54
+1721,65438,Saad,Comp. Sci.,13
+1722,8912,Brenner,Languages,14
+1723,22912,Sendlm,Geology,63
+1724,99289,Morales,Finance,80
+1725,63039,Wagner,Athletics,69
+1726,20180,Reyes,Languages,44
+1727,35687,Letouzey,Accounting,58
+1728,28409,Hirasawa,Geology,66
+1729,56078,Soltys,Geology,70
+1730,48589,Martyno,Mech. Eng.,73
+1731,7956,Brandsd,Statistics,110
+1732,16347,Morimoto,Mech. Eng.,2
+1733,75362,Christodoulakis,Pol. Sci.,13
+1734,57242,Chatfield,Physics,108
+1735,71085,Giannoulis,Elec. Eng.,10
+1736,89132,Janssen,Geology,104
+1737,79763,Ikeda,Comp. Sci.,123
+1738,41818,Wari,English,9
+1739,667,Goldman,History,19
+1740,82970,Peip,Mech. Eng.,48
+1741,68150,Kim,Math,3
+1742,63243,Dostal,Comp. Sci.,68
+1743,18338,Kangs,Physics,9
+1744,51862,Carrillo,English,105
+1745,19203,Koch,Physics,88
+1746,78892,Kei,English,43
+1747,67657,Beeu,Languages,106
+1748,71628,Amann,Psychology,60
+1749,43854,Gau,Astronomy,47
+1750,123,Wingb,Civil Eng.,86
+1751,5943,Rubio,Math,28
+1752,56139,Schelten,Elec. Eng.,82
+1753,45680,Kiltz,Cybernetics,88
+1754,76759,Masum,Mech. Eng.,83
+1755,26802,Baber,Comp. Sci.,27
+1756,83747,Gregory,Mech. Eng.,51
+1757,35935,ODono,Languages,3
+1758,8957,Walker,Athletics,50
+1759,40481,Zettel,Civil Eng.,74
+1760,44352,Itoh,Athletics,101
+1761,73072,Akroy,Comp. Sci.,48
+1762,96206,Koic,Math,53
+1763,8843,Papakir,Biology,95
+1764,41299,Siebers,Civil Eng.,23
+1765,13403,Latour,English,82
+1766,65703,Goldman,Comp. Sci.,37
+1767,49205,Agraz,Pol. Sci.,82
+1768,22345,Wecker,Pol. Sci.,76
+1769,39254,Elme,Statistics,103
+1770,80742,Lucas,Geology,87
+1771,94726,Ailamaki,Accounting,47
+1772,77361,Neuhold,Physics,14
+1773,52856,Grange,Physics,117
+1774,64138,Doran,Biology,99
+1775,89414,Feldman,Marketing,34
+1776,22618,Voss,Pol. Sci.,101
+1777,98870,Kun,Cybernetics,43
+1778,77234,Hayrapetyan,Geology,93
+1779,56057,Hull,Statistics,112
+1780,32881,Bagato,Civil Eng.,77
+1781,92776,Oki,Psychology,0
+1782,82301,Conti,Marketing,129
+1783,29959,Narli,Physics,56
+1784,30182,Porr,Cybernetics,71
+1785,96324,Sudirm,Accounting,84
+1786,56232,Perozzo,Geology,48
+1787,53047,Geißl,Mech. Eng.,46
+1788,87015,Pottos,Accounting,90
+1789,55329,Vyborny,History,15
+1790,21394,Patel,Finance,115
+1791,61166,Kangs,Astronomy,73
+1792,74530,Ranno,Physics,103
+1793,99189,Shelest,Pol. Sci.,35
+1794,34170,Chan,Comp. Sci.,77
+1795,19220,Hayashi,History,77
+1796,73542,Dooley,Geology,8
+1797,97590,Rammer,Comp. Sci.,17
+1798,15613,Umehara,Marketing,41
+1799,78767,Marlet,Geology,6
+1800,51553,Willis,Finance,121
+1801,9947,Bouzeghoub,Biology,38
+1802,95260,Yannakakis,Statistics,109
+1803,87268,Koenig,Languages,82
+1804,35,Glaho,History,110
+1805,99451,Bradshaw,Statistics,79
+1806,65396,Rossos,Marketing,75
+1807,98140,Ratcliff,Statistics,5
+1808,62520,Im,Astronomy,105
+1809,40044,Jode,Mech. Eng.,108
+1810,78787,Rissanen,History,57
+1811,85308,Yihn,Accounting,20
+1812,85809,Andert,Geology,99
+1813,30021,Youseffi,History,90
+1814,54153,Kammerer,Mech. Eng.,25
+1815,73387,Baccou,Cybernetics,70
+1816,83003,Nam,Psychology,30
+1817,13211,Diab,Civil Eng.,66
+1818,20803,Mercurio,History,129
+1819,6990,Hoshi,Biology,25
+1820,2629,Goldbu,Languages,4
+1821,83398,Quinta,History,58
+1822,6673,Bernhart,Math,84
+1823,81294,Massey,Mech. Eng.,111
+1824,81566,Farr,Geology,68
+1825,94620,Sarnak,Accounting,100
+1826,57456,Stauf,Statistics,89
+1827,17424,Zouao,English,75
+1828,34195,Bosnjak,Astronomy,120
+1829,94836,Fuller,English,13
+1830,16543,Toffoli,History,83
+1831,42843,Lin,Mech. Eng.,18
+1832,82868,So,Athletics,105
+1833,18499,Peter,Biology,21
+1834,50013,Milanic,Math,76
+1835,53077,Brandt,History,87
+1836,87439,Scheffer,Comp. Sci.,93
+1837,40738,Dima,Finance,88
+1838,13352,Gorsky,Athletics,53
+1839,9605,Beeu,Pol. Sci.,61
+1840,53490,Reina-,Languages,31
+1841,57925,Doeschn,Languages,58
+1842,57055,Piou,Physics,0
+1843,21009,Geon,History,118
+1844,8140,Paddock,Comp. Sci.,53
+1845,37284,Benabd,Physics,74
+1846,97023,Bulash,Psychology,48
+1847,5920,Godfrey,Marketing,125
+1848,91915,Cacciari,Geology,126
+1849,25780,Ashmi,Accounting,95
+1850,26473,Neru,Accounting,75
+1851,43032,Tanaka,Biology,84
+1852,30110,Humphrey,Athletics,2
+1853,88302,Yarmush,Marketing,64
+1854,83002,Ladu,History,99
+1855,83136,Caporali,Comp. Sci.,61
+1856,61364,Bhavs,History,8
+1857,50598,She,Psychology,52
+1858,83696,Denso,Cybernetics,94
+1859,33791,Wood,Civil Eng.,92
+1860,61403,Tanno,Finance,44
+1861,66356,Xi,Elec. Eng.,44
+1862,12683,Sin,Accounting,115
+1863,66106,Malagoli,Finance,18
+1864,77729,Lui,Psychology,26
+1865,52750,Saito,Mech. Eng.,12
+1866,25256,Boulah,Astronomy,83
+1867,3640,Karniel,Athletics,41
+1868,22325,Oevers,Statistics,77
+1869,26730,Veselovsky,Psychology,68
+1870,70918,Holland,English,23
+1871,91616,Hoffman,Astronomy,100
+1872,69285,Zaharak,Athletics,36
+1873,42688,Palma,Biology,54
+1874,24932,Segars,Civil Eng.,78
+1875,33817,Vagn,Geology,95
+1876,53185,Yuanq,Accounting,25
+1877,85445,Bocchi,English,18
+1878,58081,Pelletier,Comp. Sci.,100
+1879,75560,Tabor,History,129
+1880,80821,Morris,Math,102
+1881,19536,Bhattacharya,Math,92
+1882,27002,Veerar,Statistics,5
+1883,39925,Preuss,Civil Eng.,32
+1884,90194,Busch,Biology,93
+1885,32056,Frost,Math,75
+1886,67310,Lindner,Elec. Eng.,21
+1887,88389,Henriksen,Marketing,5
+1888,78469,Xiong,Accounting,14
+1889,46450,Tleu,Comp. Sci.,83
+1890,86651,Dave,Mech. Eng.,94
+1891,5824,Ocel,Cybernetics,121
+1892,11101,Glaho,Cybernetics,119
+1893,57431,Holloway,Civil Eng.,2
+1894,96193,Yasuda,English,19
+1895,55531,Apostolov,Physics,85
+1896,17192,Carroll,Pol. Sci.,75
+1897,86075,Juchn,Biology,101
+1898,81150,Atkins,Cybernetics,99
+1899,44206,Gilmour,Comp. Sci.,75
+1900,67222,Andrews,English,91
+1901,47126,Bakirc,Comp. Sci.,56
+1902,67407,Yoneda,Biology,115
+1903,20814,Cheed,Marketing,42
+1904,25331,Baker,Accounting,68
+1905,83838,Durrant,Civil Eng.,2
+1906,66293,Gibson,English,98
+1907,56499,Zarpell,Geology,82
+1908,32368,Ouaz,Languages,64
+1909,75273,Jia,Civil Eng.,38
+1910,67436,LaCo,Physics,56
+1911,259,Bertranp,Accounting,105
+1912,858,Kashima,Psychology,1
+1913,94990,Lykin,English,120
+1914,89140,Fabregas,Biology,94
+1915,55940,Subbai,Pol. Sci.,31
+1916,72768,Queiroz,Mech. Eng.,50
+1917,96772,Rieger,Cybernetics,126
+1918,25068,Dickens,Civil Eng.,12
+1919,96988,Bussel,History,124
+1920,44816,Burman,History,67
+1921,88417,Mitsuhashi,Athletics,1
+1922,11441,Betho,Languages,36
+1923,4435,Labroc,Accounting,11
+1924,70362,Sicard,English,85
+1925,54460,Martini,Math,100
+1926,7970,Bartels,Marketing,56
+1927,73807,Gubar,Statistics,95
+1928,19050,Erdem,Civil Eng.,58
+1929,67146,Scherze,Marketing,121
+1930,23934,Koizumi,English,59
+1931,96246,Tong,Languages,86
+1932,21225,Choll,Elec. Eng.,112
+1933,18554,Ramaswamy,Psychology,21
+1934,38013,Frolova,Marketing,29
+1935,98019,Ciepl,Marketing,74
+1936,40457,Bouras,History,116
+1937,94801,Chakraborty,Civil Eng.,26
+1938,65038,Papakir,History,78
+1939,4383,Tallis,History,120
+1940,36402,Hippu,Athletics,115
+1941,9514,Dickson,Geology,112
+1942,11195,Shiang,Cybernetics,62
+1943,31442,Bessou,Math,63
+1944,51698,Sharpe,History,81
+1945,18809,Benson,Marketing,20
+1946,85505,Wells,History,123
+1947,64642,Murdock,Elec. Eng.,39
+1948,54612,Zaraté,Elec. Eng.,103
+1949,5843,Deng,Athletics,11
+1950,90779,Lenhart,Math,24
+1951,52371,Boons,Marketing,108
+1952,51238,Kran,Civil Eng.,19
+1953,62124,Towsey,Physics,105
+1954,84039,Sveti,Astronomy,79
+1955,24201,Juol,Pol. Sci.,17
+1956,31993,Ueda,Comp. Sci.,6
+1957,39520,Lui,Astronomy,43
+1958,59172,Badran,Astronomy,19
+1959,21774,Moh,Physics,38
+1960,30957,Beaudry,Cybernetics,38
+1961,54610,Tam,Languages,5
+1962,72358,Tomason,Math,92
+1963,83204,Tauber,Accounting,0
+1964,76246,Pettersen,Comp. Sci.,81
+1965,80047,Clemme,Astronomy,24
+1966,38545,Fok,English,122
+1967,8986,Maesf,Pol. Sci.,115
+1968,89393,Fischbach,English,21
+1969,37103,Walker,Athletics,19
+1970,76743,Rani,Comp. Sci.,16
+1971,81396,Cordt,Finance,7
+1972,46066,Hirasawa,Mech. Eng.,92
+1973,6729,Heilprin,Marketing,39
+1974,90372,Rho,Biology,101
+1975,28352,Mai,Pol. Sci.,64
+1976,9408,Oberholzer,Athletics,84
+1977,15517,Anis,Geology,29
+1978,61402,Maity,Mech. Eng.,62
+1979,49813,Al-Hu,History,93
+1980,72186,Pace,Marketing,106
+1981,31250,Kawasaki,Athletics,31
+1982,51768,Noga,Athletics,78
+1983,18636,Mori,Statistics,23
+1984,88993,Palaniswami,Math,51
+1985,72177,Eller,Mech. Eng.,30
+1986,99760,Sakamoto,Athletics,75
+1987,80227,Tsuji,Civil Eng.,47
+1988,76270,Qian,History,128
+1989,42019,Koch,Finance,53
+1990,15726,Neuhold,Finance,27
+1991,97694,ODono,Biology,15
+1992,16849,Kantors,Geology,117
+1993,11262,Foels,Marketing,117
+1994,64222,Namer,Pol. Sci.,23
+1995,91799,Steinmetz,Civil Eng.,96
+1996,10727,Allard,Physics,27
+1997,64169,Lucas,Civil Eng.,27
+1998,81031,Nanda,Psychology,56
+1999,18941,Denecker,History,46
+2000,46981,Yalk,Statistics,117
