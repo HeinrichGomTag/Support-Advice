@@ -15,14 +15,14 @@
 //    mostrar el primero que encuentres.Los espacios intermedios cuentan como caracteres
 internal class Program
 {
-    public static void Main(string[] args)
+    private static void Main(string[] args)
     {
         Console.Write("¿Cuántos equipos quieres ingresar?: ");
-        int n = int.Parse(Console.ReadLine());
+        var n = int.Parse(Console.ReadLine());
 
-        string[] equipos = new string[n];
+        var equipos = new string[n];
 
-        for (int i = 0; i < n; i++)
+        for (var i = 0; i < n; i++)
         {
             Console.Write("Ingresa el nombre del equipo {0}: ", i + 1);
             equipos[i] = Console.ReadLine();
@@ -44,7 +44,7 @@ internal class Program
             {
                 case 1:
                     Console.Write("Ingresa el equipo a buscar: ");
-                    string equipo = Console.ReadLine();
+                    var equipo = Console.ReadLine();
                     BuscarEquipo(equipos, equipo);
                     break;
                 case 2:
@@ -63,51 +63,51 @@ internal class Program
         } while (opcion != 4);
     }
 
-    public static void InvertirEquipoMenorCaracteres(int tam, string[] equipos)
+    private static void InvertirEquipoMenorCaracteres(int tam, string[] equipos)
     {
-        int menor = equipos[0].Length;
-        int indice = 0;
-        for (int i = 1; i < tam; i++)
+        var menor = equipos[0].Length;
+        var indice = 0;
+        for (var i = 1; i < tam; i++)
             if (equipos[i].Length < menor)
             {
                 menor = equipos[i].Length;
                 indice = i;
             }
 
-        string nombre = equipos[indice];
-        string nombreInvertido = "";
-        for (int i = nombre.Length - 1; i >= 0; i--) nombreInvertido += nombre[i];
+        var nombre = equipos[indice];
+        var nombreInvertido = "";
+        for (var i = nombre.Length - 1; i >= 0; i--) nombreInvertido += nombre[i];
 
         Console.WriteLine("El nombre del equipo con menor número de caracteres es: {0}",
             nombreInvertido);
     }
 
-    public static void EquipoMayorOcurrenciaVocales(int tam, string[] equipos)
+    private static void EquipoMayorOcurrenciaVocales(int tam, string[] equipos)
     {
-        int[] vocales = new int[tam];
-        for (int i = 0; i < tam; i++) vocales[i] = 0;
+        var vocales = new int[tam];
+        for (var i = 0; i < tam; i++) vocales[i] = 0;
 
-        for (int i = 0; i < tam; i++)
-            for (int j = 0; j < equipos[i].Length; j++)
-                if (equipos[i][j] == 'a' || equipos[i][j] == 'e' || equipos[i][j] == 'i' || equipos[i][j] == 'o' ||
-                    equipos[i][j] == 'u')
-                    vocales[i]++;
+        for (var i = 0; i < tam; i++)
+        for (var j = 0; j < equipos[i].Length; j++)
+            if (equipos[i][j] == 'a' || equipos[i][j] == 'e' || equipos[i][j] == 'i' || equipos[i][j] == 'o' ||
+                equipos[i][j] == 'u')
+                vocales[i]++;
 
-        int mayor = vocales[0];
-        for (int i = 1; i < tam; i++)
+        var mayor = vocales[0];
+        for (var i = 1; i < tam; i++)
             if (vocales[i] > mayor)
                 mayor = vocales[i];
 
         Console.WriteLine("El equipo con mayor ocurrencia de vocales es: {0} con {1} vocales", equipos[0], mayor);
-        for (int i = 0; i < tam; i++)
+        for (var i = 0; i < tam; i++)
             if (vocales[i] == mayor)
                 Console.WriteLine(equipos[i]);
     }
 
-    public static void BuscarEquipo(string[] equipos, string equipo)
+    private static void BuscarEquipo(string[] equipos, string equipo)
     {
-        bool encontrado = false;
-        for (int i = 0; i < equipos.Length; i++)
+        var encontrado = false;
+        for (var i = 0; i < equipos.Length; i++)
             if (equipos[i] == equipo)
             {
                 Console.WriteLine("El equipo {0} se encuentra en la posición {1}", equipo, i + 1);
@@ -115,6 +115,6 @@ internal class Program
                 break;
             }
 
-        if (encontrado == false) Console.WriteLine("No se encontró el equipo");
+        if (!encontrado) Console.WriteLine("No se encontró el equipo");
     }
 }

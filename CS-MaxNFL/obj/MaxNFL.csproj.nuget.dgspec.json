@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Support-Advice\\MaxNFL\\MaxNFL.csproj": {}
+    "K:\\Support-Advice\\CS-MaxNFL\\MaxNFL.csproj": {}
   },
   "projects": {
-    "K:\\Support-Advice\\MaxNFL\\MaxNFL.csproj": {
+    "K:\\Support-Advice\\CS-MaxNFL\\MaxNFL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Support-Advice\\MaxNFL\\MaxNFL.csproj",
+        "projectUniqueName": "K:\\Support-Advice\\CS-MaxNFL\\MaxNFL.csproj",
         "projectName": "MaxNFL",
-        "projectPath": "K:\\Support-Advice\\MaxNFL\\MaxNFL.csproj",
+        "projectPath": "K:\\Support-Advice\\CS-MaxNFL\\MaxNFL.csproj",
         "packagesPath": "C:\\Users\\eubgo\\.nuget\\packages\\",
-        "outputPath": "K:\\Support-Advice\\MaxNFL\\obj\\",
+        "outputPath": "K:\\Support-Advice\\CS-MaxNFL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
