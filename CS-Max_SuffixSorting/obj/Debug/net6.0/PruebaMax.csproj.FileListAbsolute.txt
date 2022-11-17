@@ -1,0 +1,15 @@
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.csproj.AssemblyReference.cache
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.AssemblyInfoInputs.cache
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.AssemblyInfo.cs
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.csproj.CoreCompileInputs.cache
+D:\Users\0241823\Desktop\PruebaMax\bin\Debug\net6.0\PruebaMax.exe
+D:\Users\0241823\Desktop\PruebaMax\bin\Debug\net6.0\PruebaMax.deps.json
+D:\Users\0241823\Desktop\PruebaMax\bin\Debug\net6.0\PruebaMax.runtimeconfig.json
+D:\Users\0241823\Desktop\PruebaMax\bin\Debug\net6.0\PruebaMax.dll
+D:\Users\0241823\Desktop\PruebaMax\bin\Debug\net6.0\PruebaMax.pdb
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.dll
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\refint\PruebaMax.dll
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.pdb
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\PruebaMax.genruntimeconfig.cache
+D:\Users\0241823\Desktop\PruebaMax\obj\Debug\net6.0\ref\PruebaMax.dll
