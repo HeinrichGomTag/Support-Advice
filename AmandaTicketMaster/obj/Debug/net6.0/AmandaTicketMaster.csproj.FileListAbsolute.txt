@@ -1,0 +1,15 @@
+K:\Support-Advice\AmandaTicketMaster\bin\Debug\net6.0\AmandaTicketMaster.exe
+K:\Support-Advice\AmandaTicketMaster\bin\Debug\net6.0\AmandaTicketMaster.deps.json
+K:\Support-Advice\AmandaTicketMaster\bin\Debug\net6.0\AmandaTicketMaster.runtimeconfig.json
+K:\Support-Advice\AmandaTicketMaster\bin\Debug\net6.0\AmandaTicketMaster.dll
+K:\Support-Advice\AmandaTicketMaster\bin\Debug\net6.0\AmandaTicketMaster.pdb
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.csproj.AssemblyReference.cache
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.GeneratedMSBuildEditorConfig.editorconfig
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.AssemblyInfoInputs.cache
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.AssemblyInfo.cs
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.csproj.CoreCompileInputs.cache
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.dll
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\refint\AmandaTicketMaster.dll
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.pdb
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\AmandaTicketMaster.genruntimeconfig.cache
+K:\Support-Advice\AmandaTicketMaster\obj\Debug\net6.0\ref\AmandaTicketMaster.dll
