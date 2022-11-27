@@ -6,7 +6,7 @@ database = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database="ferro_bank"
+    database="knowemup"
 )
 # SEE OBJECT ADDRESS
 # print(database)
@@ -20,9 +20,9 @@ cursor = database.cursor()
 #     print(x)
 
 # VIEW ALL TABLES FROM SELECTED DATABASE
-# cursor.execute("SHOW TABLES")
-# for x in cursor:
-#     print(x)
+cursor.execute("SHOW TABLES")
+for x in cursor:
+    print(x)
 
 # CREATE TABLE
 # cursor.execute("CREATE TABLE savings (sav_cant varchar(50))")
@@ -44,20 +44,20 @@ cursor = database.cursor()
 # cursor.executemany(sql, val)
 
 
-def insert_account(ac_type, ac_number):
-    sql = "INSERT INTO account (ac_type, ac_number) VALUES (%s, %s)"
-    val = (ac_type, ac_number)
-    cursor.execute(sql, val)
-
-
-tipo = input("Ingrese el tipo de cuenta: ")
-numero = int(input("Ingrese el número de cuenta: "))
-insert_account(tipo, numero)
-
-database.commit()
+# def insert_account(ac_type, ac_number):
+#     sql = "INSERT INTO account (ac_type, ac_number) VALUES (%s, %s)"
+#     val = (ac_type, ac_number)
+#     cursor.execute(sql, val)
+#
+#
+# tipo = input("Ingrese el tipo de cuenta: ")
+# numero = int(input("Ingrese el número de cuenta: "))
+# insert_account(tipo, numero)
+#
+# database.commit()
 
 # GET NUMBER OF ROWS
-print(cursor.rowcount, "records inserted.")
+# print(cursor.rowcount, "records inserted.")
 
 # GET LAST ROW ID
 # print("Last record ID: ", cursor.lastrowid)
