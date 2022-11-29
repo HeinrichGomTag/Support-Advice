@@ -1,63 +1,112 @@
-# IMPORT MODULES
+opc = -1
+
+import random
+
 import mysql.connector
 
-# CREATE DATABASE CONNECTION
 database = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database="knowemup"
+    database="ferro_bank"
 )
-# SEE OBJECT ADDRESS
-# print(database)
-
-# CREATE CURSOR
 cursor = database.cursor()
 
-# VIEW ALL DATABASES
-# cursor.execute("SHOW DATABASES")
-# for x in cursor:
-#     print(x)
+while opc != 0:
+    print()
+    print("MAIN MENU")
+    print("1 - Create Account")
+    print("2 - Deposit")
+    print("3 - Withdraw")
+    print("4 - Transfer")
+    print("5 - Check Balance")
+    print("0 - EXIT")
 
-# VIEW ALL TABLES FROM SELECTED DATABASE
-cursor.execute("SHOW TABLES")
-for x in cursor:
-    print(x)
+    opc = int(input("Choose an option: "))
 
-# CREATE TABLE
-# cursor.execute("CREATE TABLE savings (sav_cant varchar(50))")
+    if opc == 1:
+        print("ADD CUSTOMER")
+        name = input("Name: ")
+        number = ""
+        for x in range(0, 9):
+            number += str(random.randint(0, 9))
+        int(number)
+        print("Your card number: " + number)
 
-# INSERT 1 ROW INTO TABLE "account"
-# sql = "INSERT INTO account (ac_type, ac_number) VALUES (%s, %s)"
-# val = ("Ahorro", "123456789")
-# cursor.execute(sql, val)
+        sql = "INSERT INTO customer (customer_name, card_num) VALUES (%s, %s)"
+        val = (name, number)
+        cursor.execute(sql, val)
 
-# CLEAN TABLE
-# cursor.execute("TRUNCATE TABLE account")
+        database.commit()
+        print("Customer added successfully!")
 
-# INSERT MULTIPLE ROW INTO TABLE "account"
-# sql = "INSERT INTO account (ac_type, ac_number) VALUES (%s, %s)"
-# val = [
-#     ("Ahorro", "123456789"),
-#     ("Corriente", "987654321")
-# ]
-# cursor.executemany(sql, val)
+        sql = "INSERT INTO account (ac_type, card_num) VALUES (%s, %s)"
+        val = ("Current", number)
+        cursor.execute(sql, val)
 
+        database.commit()
+        print("Account added successfully!")
 
-# def insert_account(ac_type, ac_number):
-#     sql = "INSERT INTO account (ac_type, ac_number) VALUES (%s, %s)"
-#     val = (ac_type, ac_number)
-#     cursor.execute(sql, val)
-#
-#
-# tipo = input("Ingrese el tipo de cuenta: ")
-# numero = int(input("Ingrese el número de cuenta: "))
-# insert_account(tipo, numero)
-#
-# database.commit()
+        sql = "INSERT INTO card (card_num, card_balance) VALUES (%s, %s)"
+        val = (number, 0)
+        cursor.execute(sql, val)
 
-# GET NUMBER OF ROWS
-# print(cursor.rowcount, "records inserted.")
+        database.commit()
+        print("Card added successfully!")
 
-# GET LAST ROW ID
-# print("Last record ID: ", cursor.lastrowid)
+    elif opc == 2:
+        print("DEPOSIT")
+        number = input("Card number: ")
+        amount = int(input("Amount: "))
+
+        sql = "UPDATE card SET card_balance = card_balance + %s WHERE card_num = %s"
+        val = (amount, number)
+        cursor.execute(sql, val)
+
+        database.commit()
+        print("Deposit successfully!")
+
+    elif opc == 3:
+        print("WITHDRAW")
+        number = input("Card number: ")
+        amount = int(input("Amount: "))
+
+        sql = "UPDATE card SET card_balance = card_balance - %s WHERE card_num = %s"
+        val = (amount, number)
+        cursor.execute(sql, val)
+
+        database.commit()
+        print("Withdraw successfully!")
+
+    elif opc == 4:
+        print("TRANSFER")
+        origin = input("Origin card number: ")
+        destiny = input("Destiny card number: ")
+        amount = float(input("Amount: "))
+
+        sql = "UPDATE card SET card_balance = card_balance - %s WHERE card_num = %s"
+        val = (amount, origin)
+        cursor.execute(sql, val)
+
+        sql = "UPDATE card SET card_balance = card_balance + %s WHERE card_num = %s"
+        val = (amount, destiny)
+        cursor.execute(sql, val)
+
+        database.commit()
+        print("Transfer successfully!")
+
+    elif opc == 5:
+        print("CHECK BALANCE")
+        number = input("Card number: ")
+
+        sql = "SELECT card_balance FROM card WHERE card_num = %s"
+        val = (number,)
+        cursor.execute(sql, val)
+
+        result = cursor.fetchone()
+        print("Balance: " + str(result[0]))
+
+    elif opc == 0:
+        print("Finishing...")
+    else:
+        print("Opción inválida")
