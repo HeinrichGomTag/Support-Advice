@@ -7,31 +7,32 @@ using namespace std;
 struct Sale
 {
 	int ordnum;
-	//int date; // TODO CRITERIA FORMATO??
 	string date;
-	string produsold;
+
+	string name;
 	float subtotal;
+	string presentation;
+	string laboratory;
+	bool iva;
+
+	int quantity;
 	float total;
 	string typepay;
 	bool bill;
-	string name;
-	string presentation;
-	bool iva;
-	int quantity;
-}; //name presentatio salevalue iva
+};
 
-//name presentatio salevalue iva
 struct Product
 {
-	int ID; // no lo ingresa
+	int ID;
 	string name;
-	string SKU;
+
 	string presentation;
 	string laboratory;
 	int stock;
 	float cvalue;
 	float svalue;
-	string expiration;
+
+	int expiration;
 	bool IVA;
 };
 
@@ -79,10 +80,6 @@ static vector<Product> ADDPRODUCTS(vector<Product> temporal_product)
 		cout << "\nEnter the name of the product " << i + 1 << ": ";
 		getline(cin, temp.name);
 
-		cout << "Enter the SKU of the product " << i + 1 << ": ";
-		cin >> temp.SKU;
-		cin.ignore();
-
 		cout << "Enter the presentation of the product (tablet/syrup) & (mg / ml): ";
 		getline(cin, temp.presentation);
 
@@ -101,8 +98,9 @@ static vector<Product> ADDPRODUCTS(vector<Product> temporal_product)
 		cin >> temp.svalue;
 		cin.ignore();
 
-		cout << "Enter the expiration date in the format (YYYY/MM/DD): "; // TODO CRITERIA OF EXPIRATION?
-		getline(cin, temp.expiration);
+		cout << "Enter the expiration year: ";
+		cin >> temp.expiration;
+		cin.ignore();
 
 		string validator1;
 		cout << "Does the product has iva? (yes/no): ";
@@ -117,7 +115,6 @@ static vector<Product> ADDPRODUCTS(vector<Product> temporal_product)
 static Store ADDSALE(Store store_temporal)
 {
 	Sale temp;
-	// imprimir nombre, cuanto hay y cuanto vale
 	cout << "Products" << endl;
 	cout << "ID" << "\t" << "Name" << "\t" << "Stock" << "\t" << "Price" << endl;
 	for (int i = 0; i < store_temporal.myProducts.size(); i++)
@@ -126,12 +123,12 @@ static Store ADDSALE(Store store_temporal)
 			<< store_temporal.myProducts[i].svalue << endl;
 	}
 	int producto2;
-	cout << "Dear customer enter the number of the product that you would like to buy: ";
+	cout << "Dear customer enter the ID of the product that you would like to buy: ";
 	cin >> producto2;
 	cin.ignore();
 
 	temp.ordnum = store_temporal.mySales.size() + 1;
-	temp.name = store_temporal.myProducts[producto2 - 1].name; // TODO Diference entre name y produsold
+	temp.name = store_temporal.myProducts[producto2 - 1].name;
 
 	cout << "Enter the date of the sale: ";
 	getline(cin, temp.date);
@@ -141,10 +138,10 @@ static Store ADDSALE(Store store_temporal)
 	cin >> quantity;
 	cin.ignore();
 
-	temp.produsold = store_temporal.myProducts[producto2 - 1].name; // TODO Diference entre name y produsold
 	temp.subtotal = store_temporal.myProducts[producto2 - 1].svalue;
 	temp.total = store_temporal.myProducts[producto2 - 1].svalue * quantity;
 	temp.presentation = store_temporal.myProducts[producto2 - 1].presentation;
+	temp.laboratory = store_temporal.myProducts[producto2 - 1].laboratory;
 	temp.iva = store_temporal.myProducts[producto2 - 1].IVA;
 
 	cout << "Enter the type of payment (credit/debit): ";
@@ -174,12 +171,12 @@ static void SPECIFICINFOPRODU(vector<Product> myProducts)
 	cout << "Please enter the ID of the product you want to see the information: ";
 	int id;
 	cin >> id;
+	cin.ignore();
 	for (int i = 0; i < myProducts.size(); i++)
 	{
 		if (id == myProducts[i].ID)
 		{
 			cout << "Name: " << myProducts[i].name << endl;
-			cout << "SKU: " << myProducts[i].SKU << endl;
 			cout << "Presentation: " << myProducts[i].presentation << endl;
 			cout << "Laboratory: " << myProducts[i].laboratory << endl;
 			cout << "Stock: " << myProducts[i].stock << endl;
@@ -200,8 +197,12 @@ static void BYLAB(vector<Product> myProducts)
 	cout << "ID" << "\t" << "Name" << "\t" << "Stock" << "\t" << "Price" << endl;
 	for (int i = 0; i < myProducts.size(); i++)
 	{
-		cout << i + 1 << "\t" << myProducts[i].name << "\t" << myProducts[i].stock << "\t" << myProducts[i].svalue <<
-			endl;
+		if (lab == myProducts[i].laboratory)
+		{
+			cout << i + 1 << "\t" << myProducts[i].name << "\t" << myProducts[i].stock << "\t" << myProducts[i].svalue
+				<<
+				endl;
+		}
 	}
 }
 
@@ -217,7 +218,6 @@ static void ALLPRODUCTS(vector<Product> myProducts)
 
 void EXPIRING(vector<Product> myProducts)
 {
-	// ASCENDING BUBBLE SORT BY YEAR //TODO YEAR ONLY
 	vector<Product> temp = myProducts;
 	for (int i = 0; i < temp.size(); i++)
 	{
@@ -254,6 +254,7 @@ void SALESBYBILLING(vector<Sale> sales)
 	cout << "Sales with bill? (yes/no): ";
 	cin >> bill;
 	cin.ignore();
+	cout << "ID" << "\t" << "Name" << "\t" << "Date" << "\t" << "Bill" << endl;
 	for (int i = 0; i < sales.size(); i++)
 	{
 		if (bill == "yes")
@@ -279,6 +280,7 @@ void SALESBYPAYMENT(vector<Sale> sales)
 	cout << "Sales with payment? (credit/debit): ";
 	cin >> payment;
 	cin.ignore();
+	cout << "ID" << "\t" << "Name" << "\t" << "Date" << "\t" << "Bill" << endl;
 
 	for (int i = 0; i < sales.size(); i++)
 	{

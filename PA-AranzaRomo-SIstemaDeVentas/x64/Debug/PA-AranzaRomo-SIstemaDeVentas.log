@@ -1,3 +1,3 @@
 ﻿  PA-AranzaRomo-SIstemaDeVentas.cpp
-K:\Support-Advice\PA-AranzaRomo-SIstemaDeVentas\PA-AranzaRomo-SIstemaDeVentas.cpp(133,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+K:\Support-Advice\PA-AranzaRomo-SIstemaDeVentas\PA-AranzaRomo-SIstemaDeVentas.cpp(161,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   PA-AranzaRomo-SIstemaDeVentas.vcxproj -> K:\Support-Advice\PA-AranzaRomo-SIstemaDeVentas\x64\Debug\PA-AranzaRomo-SIstemaDeVentas.exe
