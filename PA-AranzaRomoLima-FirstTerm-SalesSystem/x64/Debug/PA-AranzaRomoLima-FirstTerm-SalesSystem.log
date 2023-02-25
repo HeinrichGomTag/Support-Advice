@@ -1,0 +1,9 @@
+﻿  PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(68,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(109,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(156,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(178,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(240,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(438,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\PA-AranzaRomoLima-FirstTerm-SalesSystem.cpp(455,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PA-AranzaRomoLima-FirstTerm-SalesSystem.vcxproj -> K:\Support-Advice\PA-AranzaRomoLima-FirstTerm-SalesSystem\x64\Debug\PA-AranzaRomoLima-FirstTerm-SalesSystem.exe
