@@ -7,7 +7,8 @@ using namespace std;
 struct Sale
 {
 	int ordnum;
-	int date;
+	//int date; // TODO CRITERIA FORMATO??
+	string date;
 	string produsold;
 	float subtotal;
 	float total;
@@ -100,9 +101,8 @@ static vector<Product> ADDPRODUCTS(vector<Product> temporal_product)
 		cin >> temp.svalue;
 		cin.ignore();
 
-		cout << "Enter the expiration date in the format (YYYY/MM/DD): ";
-		cin >> temp.expiration;
-		cin.ignore();
+		cout << "Enter the expiration date in the format (YYYY/MM/DD): "; // TODO CRITERIA OF EXPIRATION?
+		getline(cin, temp.expiration);
 
 		string validator1;
 		cout << "Does the product has iva? (yes/no): ";
@@ -134,8 +134,8 @@ static Store ADDSALE(Store store_temporal)
 	temp.name = store_temporal.myProducts[producto2 - 1].name; // TODO Diference entre name y produsold
 
 	cout << "Enter the date of the sale: ";
-	cin >> temp.date;
-	cin.ignore();
+	getline(cin, temp.date);
+
 	int quantity;
 	cout << "Enter the quantity of the product: ";
 	cin >> quantity;
@@ -214,18 +214,6 @@ static void ALLPRODUCTS(vector<Product> myProducts)
 			endl;
 	}
 }
-
-//void SALESBYLAB(vector<Sale>& sales)
-//{
-//	string lab;
-//	cout << "Enter the name of the laboratory: ";
-//	getline(cin, lab);
-//	cout << "ID" << "\t" << "Name" << "\t" << "Stock" << "\t" << "Price" << endl;
-//	for (int i = 0; i < sales.size(); i++)
-//	{
-//		cout << i + 1 << "\t" << sales[i].name << "\t" << sales[i].date << "\t" << sales[i].bill << endl;
-//	}
-//}
 
 void EXPIRING(vector<Product> myProducts)
 {
@@ -393,7 +381,8 @@ int main()
 					ALLSALES(myStore.mySales);
 					break;
 				case 3:
-					// FILTEREDSALES();//TODO CRITERIO????
+					cout << "Filtered sales" << endl;
+				// FILTEREDSALES();//TODO CRITERIO????
 					break;
 				case 4:
 					SALESBYPAYMENT(myStore.mySales);
