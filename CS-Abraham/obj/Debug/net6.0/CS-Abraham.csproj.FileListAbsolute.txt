@@ -1,0 +1,15 @@
+K:\Support-Advice\CS-Abraham\bin\Debug\net6.0\CS-Abraham.exe
+K:\Support-Advice\CS-Abraham\bin\Debug\net6.0\CS-Abraham.deps.json
+K:\Support-Advice\CS-Abraham\bin\Debug\net6.0\CS-Abraham.runtimeconfig.json
+K:\Support-Advice\CS-Abraham\bin\Debug\net6.0\CS-Abraham.dll
+K:\Support-Advice\CS-Abraham\bin\Debug\net6.0\CS-Abraham.pdb
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.csproj.AssemblyReference.cache
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.GeneratedMSBuildEditorConfig.editorconfig
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.AssemblyInfoInputs.cache
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.AssemblyInfo.cs
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.csproj.CoreCompileInputs.cache
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.dll
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\refint\CS-Abraham.dll
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.pdb
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\CS-Abraham.genruntimeconfig.cache
+K:\Support-Advice\CS-Abraham\obj\Debug\net6.0\ref\CS-Abraham.dll
