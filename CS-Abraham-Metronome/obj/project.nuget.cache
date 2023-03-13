@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+70Pglq3sp/BQbz4jqyKJtW/pIYhLMzBzPP5PLPUajZ1a26jCv6WcgQp2R7911Dw/HRtT4qrDcjQB/bhxBchQ==",
+  "success": true,
+  "projectFilePath": "/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/CS-Abraham-Metronome.csproj",
+  "expectedPackageFiles": [
+    "/home/eubgo/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/eubgo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/eubgo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

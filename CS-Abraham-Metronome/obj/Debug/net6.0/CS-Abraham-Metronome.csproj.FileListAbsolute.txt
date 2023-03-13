@@ -1,0 +1,15 @@
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/bin/Debug/net6.0/CS-Abraham-Metronome
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/bin/Debug/net6.0/CS-Abraham-Metronome.deps.json
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/bin/Debug/net6.0/CS-Abraham-Metronome.runtimeconfig.json
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/bin/Debug/net6.0/CS-Abraham-Metronome.dll
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/bin/Debug/net6.0/CS-Abraham-Metronome.pdb
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.csproj.AssemblyReference.cache
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.GeneratedMSBuildEditorConfig.editorconfig
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.AssemblyInfoInputs.cache
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.AssemblyInfo.cs
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.csproj.CoreCompileInputs.cache
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.dll
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/refint/CS-Abraham-Metronome.dll
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.pdb
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/CS-Abraham-Metronome.genruntimeconfig.cache
+/home/eubgo/Desktop/Support-Advice/CS-Abraham-Metronome/obj/Debug/net6.0/ref/CS-Abraham-Metronome.dll
