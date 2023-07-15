@@ -1,0 +1,15 @@
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/bin/Debug/net6.0/CS-SandAbraham
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/bin/Debug/net6.0/CS-SandAbraham.deps.json
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/bin/Debug/net6.0/CS-SandAbraham.runtimeconfig.json
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/bin/Debug/net6.0/CS-SandAbraham.dll
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/bin/Debug/net6.0/CS-SandAbraham.pdb
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.csproj.AssemblyReference.cache
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.GeneratedMSBuildEditorConfig.editorconfig
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.AssemblyInfoInputs.cache
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.AssemblyInfo.cs
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.csproj.CoreCompileInputs.cache
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.dll
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/refint/CS-SandAbraham.dll
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.pdb
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/CS-SandAbraham.genruntimeconfig.cache
+/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/obj/Debug/net6.0/ref/CS-SandAbraham.dll

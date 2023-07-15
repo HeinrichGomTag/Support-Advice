@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQ/Xas/x0GNKFJEVvfyTXChICvlISDakk8txXAfOuemaDP9eub/GB6xChRLuCIB7F0GwVb4vUF1bSbjUKrSlKQ==",
+  "success": true,
+  "projectFilePath": "/home/eubgo/Desktop/Support-Advice/CS-SandAbraham/CS-SandAbraham/CS-SandAbraham.csproj",
+  "expectedPackageFiles": [
+    "/home/eubgo/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/eubgo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/eubgo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
