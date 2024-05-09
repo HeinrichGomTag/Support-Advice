@@ -1,0 +1,14 @@
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\bin\Debug\net8.0\ReservaHoteles.exe
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\bin\Debug\net8.0\ReservaHoteles.deps.json
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\bin\Debug\net8.0\ReservaHoteles.runtimeconfig.json
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\bin\Debug\net8.0\ReservaHoteles.dll
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\bin\Debug\net8.0\ReservaHoteles.pdb
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.GeneratedMSBuildEditorConfig.editorconfig
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.AssemblyInfoInputs.cache
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.AssemblyInfo.cs
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.csproj.CoreCompileInputs.cache
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.dll
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\refint\ReservaHoteles.dll
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.pdb
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ReservaHoteles.genruntimeconfig.cache
+D:\more\Asesorias\ReservaHoteles\ReservaHoteles\obj\Debug\net8.0\ref\ReservaHoteles.dll
